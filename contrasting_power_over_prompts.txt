@@ -1,0 +1,1765 @@
+Given the following sentence, determine if Sarah has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He told Sarah to work this weekend."
+
+            Does Sarah have power over another person in this sentence?
+            Answer with only 'YES' if Sarah has power over someone else, or 'NO' if Sarah is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Sarah has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Sarah told him to work this weekend."
+
+            Does Sarah have power over another person in this sentence?
+            Answer with only 'YES' if Sarah has power over someone else, or 'NO' if Sarah is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Marcus has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She made Marcus stay after class."
+
+            Does Marcus have power over another person in this sentence?
+            Answer with only 'YES' if Marcus has power over someone else, or 'NO' if Marcus is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Marcus has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Marcus made her stay after class."
+
+            Does Marcus have power over another person in this sentence?
+            Answer with only 'YES' if Marcus has power over someone else, or 'NO' if Marcus is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Elena has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They ordered Elena to cancel all the meetings."
+
+            Does Elena have power over another person in this sentence?
+            Answer with only 'YES' if Elena has power over someone else, or 'NO' if Elena is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Elena has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Elena ordered them to cancel all the meetings."
+
+            Does Elena have power over another person in this sentence?
+            Answer with only 'YES' if Elena has power over someone else, or 'NO' if Elena is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Wilson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "she sentenced Wilson to five years."
+
+            Does Wilson have power over another person in this sentence?
+            Answer with only 'YES' if Wilson has power over someone else, or 'NO' if Wilson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Wilson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Wilson sentenced her to five years."
+
+            Does Wilson have power over another person in this sentence?
+            Answer with only 'YES' if Wilson has power over someone else, or 'NO' if Wilson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rebecca has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Rebecca was fired by him on the spot."
+
+            Does Rebecca have power over another person in this sentence?
+            Answer with only 'YES' if Rebecca has power over someone else, or 'NO' if Rebecca is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rebecca has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He was fired by Rebecca on the spot."
+
+            Does Rebecca have power over another person in this sentence?
+            Answer with only 'YES' if Rebecca has power over someone else, or 'NO' if Rebecca is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Chen has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They command Chen to stop."
+
+            Does Chen have power over another person in this sentence?
+            Answer with only 'YES' if Chen has power over someone else, or 'NO' if Chen is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Chen has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Chen commands them to stop."
+
+            Does Chen have power over another person in this sentence?
+            Answer with only 'YES' if Chen has power over someone else, or 'NO' if Chen is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if David has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "His sister forbade David from leaving."
+
+            Does David have power over another person in this sentence?
+            Answer with only 'YES' if David has power over someone else, or 'NO' if David is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if David has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "David forbade his sister from leaving."
+
+            Does David have power over another person in this sentence?
+            Answer with only 'YES' if David has power over someone else, or 'NO' if David is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Kim has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Lawrence assigned Kim the night shift."
+
+            Does Kim have power over another person in this sentence?
+            Answer with only 'YES' if Kim has power over someone else, or 'NO' if Kim is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Kim has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Kim assigned Lawrence the night shift."
+
+            Does Kim have power over another person in this sentence?
+            Answer with only 'YES' if Kim has power over someone else, or 'NO' if Kim is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Amanda has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He demoted Amanda to entry level."
+
+            Does Amanda have power over another person in this sentence?
+            Answer with only 'YES' if Amanda has power over someone else, or 'NO' if Amanda is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Amanda has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Amanda demoted him to entry level."
+
+            Does Amanda have power over another person in this sentence?
+            Answer with only 'YES' if Amanda has power over someone else, or 'NO' if Amanda is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Coach Stevens has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "His friend benched Stevens for the game."
+
+            Does Coach Stevens have power over another person in this sentence?
+            Answer with only 'YES' if Coach Stevens has power over someone else, or 'NO' if Coach Stevens is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Coach Stevens has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Stevens benched his friend for the game."
+
+            Does Coach Stevens have power over another person in this sentence?
+            Answer with only 'YES' if Coach Stevens has power over someone else, or 'NO' if Coach Stevens is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Martinez has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The board removed Martinez from her position."
+
+            Does Martinez have power over another person in this sentence?
+            Answer with only 'YES' if Martinez has power over someone else, or 'NO' if Martinez is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Martinez has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Martinez removed the board from their positions."
+
+            Does Martinez have power over another person in this sentence?
+            Answer with only 'YES' if Martinez has power over someone else, or 'NO' if Martinez is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Thomas has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She withheld Thomas's paycheck until Friday."
+
+            Does Thomas have power over another person in this sentence?
+            Answer with only 'YES' if Thomas has power over someone else, or 'NO' if Thomas is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Thomas has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Thomas withheld her paycheck until Friday."
+
+            Does Thomas have power over another person in this sentence?
+            Answer with only 'YES' if Thomas has power over someone else, or 'NO' if Thomas is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Alexander has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He arrested Alexander at the scene."
+
+            Does Alexander have power over another person in this sentence?
+            Answer with only 'YES' if Alexander has power over someone else, or 'NO' if Alexander is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Alexander has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Alexander arrested him at the scene."
+
+            Does Alexander have power over another person in this sentence?
+            Answer with only 'YES' if Alexander has power over someone else, or 'NO' if Alexander is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The official has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They deported the official immediately."
+
+            Does The official have power over another person in this sentence?
+            Answer with only 'YES' if The official has power over someone else, or 'NO' if The official is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The official has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The official deported them immediately."
+
+            Does The official have power over another person in this sentence?
+            Answer with only 'YES' if The official has power over someone else, or 'NO' if The official is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Victoria has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He blocked Victoria's promotion to manager."
+
+            Does Victoria have power over another person in this sentence?
+            Answer with only 'YES' if Victoria has power over someone else, or 'NO' if Victoria is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Victoria has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Victoria blocked his promotion to manager."
+
+            Does Victoria have power over another person in this sentence?
+            Answer with only 'YES' if Victoria has power over someone else, or 'NO' if Victoria is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Johnson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She placed Johnson in solitary confinement."
+
+            Does Johnson have power over another person in this sentence?
+            Answer with only 'YES' if Johnson has power over someone else, or 'NO' if Johnson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Johnson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Johnson placed her in solitary confinement."
+
+            Does Johnson have power over another person in this sentence?
+            Answer with only 'YES' if Johnson has power over someone else, or 'NO' if Johnson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Lee has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He confiscated Lee's phone during class."
+
+            Does Lee have power over another person in this sentence?
+            Answer with only 'YES' if Lee has power over someone else, or 'NO' if Lee is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Lee has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Lee confiscated his phone during class."
+
+            Does Lee have power over another person in this sentence?
+            Answer with only 'YES' if Lee has power over someone else, or 'NO' if Lee is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rivers has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She ordered Rivers to abandon ship."
+
+            Does Rivers have power over another person in this sentence?
+            Answer with only 'YES' if Rivers has power over someone else, or 'NO' if Rivers is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rivers has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Rivers ordered her to abandon ship."
+
+            Does Rivers have power over another person in this sentence?
+            Answer with only 'YES' if Rivers has power over someone else, or 'NO' if Rivers is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Michael has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Michael's access to the account was cut off by his family."
+
+            Does Michael have power over another person in this sentence?
+            Answer with only 'YES' if Michael has power over someone else, or 'NO' if Michael is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Michael has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "His family's access to the account was cut off by Michael."
+
+            Does Michael have power over another person in this sentence?
+            Answer with only 'YES' if Michael has power over someone else, or 'NO' if Michael is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Walsh has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He rejected Walsh's manuscript outright."
+
+            Does Walsh have power over another person in this sentence?
+            Answer with only 'YES' if Walsh has power over someone else, or 'NO' if Walsh is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Walsh has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Walsh rejected his manuscript outright."
+
+            Does Walsh have power over another person in this sentence?
+            Answer with only 'YES' if Walsh has power over someone else, or 'NO' if Walsh is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Director Hayes has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The General revoked Director Hayes's security clearance."
+
+            Does Director Hayes have power over another person in this sentence?
+            Answer with only 'YES' if Director Hayes has power over someone else, or 'NO' if Director Hayes is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Director Hayes has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Director Hayes revoked the General's security clearance."
+
+            Does Director Hayes have power over another person in this sentence?
+            Answer with only 'YES' if Director Hayes has power over someone else, or 'NO' if Director Hayes is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Adams has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The company charged Adams with fraud."
+
+            Does Adams have power over another person in this sentence?
+            Answer with only 'YES' if Adams has power over someone else, or 'NO' if Adams is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Adams has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Adams charged the company with fraud."
+
+            Does Adams have power over another person in this sentence?
+            Answer with only 'YES' if Adams has power over someone else, or 'NO' if Adams is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Richard has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She forced Richard to sign the contract."
+
+            Does Richard have power over another person in this sentence?
+            Answer with only 'YES' if Richard has power over someone else, or 'NO' if Richard is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Richard has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Richard forced her to sign the contract."
+
+            Does Richard have power over another person in this sentence?
+            Answer with only 'YES' if Richard has power over someone else, or 'NO' if Richard is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The committee has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Dr. Singh disqualified the committee's application."
+
+            Does The committee have power over another person in this sentence?
+            Answer with only 'YES' if The committee has power over someone else, or 'NO' if The committee is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The committee has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The committee disqualified Dr. Singh's application."
+
+            Does The committee have power over another person in this sentence?
+            Answer with only 'YES' if The committee has power over someone else, or 'NO' if The committee is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Murphy has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The man is ordering Murphy to do push-ups."
+
+            Does Murphy have power over another person in this sentence?
+            Answer with only 'YES' if Murphy has power over someone else, or 'NO' if Murphy is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Murphy has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Murphy is ordering the man to do push-ups."
+
+            Does Murphy have power over another person in this sentence?
+            Answer with only 'YES' if Murphy has power over someone else, or 'NO' if Murphy is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jennifer has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Her old friend blocked Jennifer's number on her phone."
+
+            Does Jennifer have power over another person in this sentence?
+            Answer with only 'YES' if Jennifer has power over someone else, or 'NO' if Jennifer is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jennifer has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Jennifer blocked her old friend's number on her phone."
+
+            Does Jennifer have power over another person in this sentence?
+            Answer with only 'YES' if Jennifer has power over someone else, or 'NO' if Jennifer is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jerry has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The man seized Jerry's suspicious package."
+
+            Does Jerry have power over another person in this sentence?
+            Answer with only 'YES' if Jerry has power over someone else, or 'NO' if Jerry is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jerry has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Jerry seized the man's suspicious package."
+
+            Does Jerry have power over another person in this sentence?
+            Answer with only 'YES' if Jerry has power over someone else, or 'NO' if Jerry is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Brooks has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The manager mandated Brooks's attendance at the meeting."
+
+            Does Brooks have power over another person in this sentence?
+            Answer with only 'YES' if Brooks has power over someone else, or 'NO' if Brooks is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Brooks has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Brooks mandated the manager's attendance at the meeting."
+
+            Does Brooks have power over another person in this sentence?
+            Answer with only 'YES' if Brooks has power over someone else, or 'NO' if Brooks is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Collins has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She ejects Collins from the game."
+
+            Does Collins have power over another person in this sentence?
+            Answer with only 'YES' if Collins has power over someone else, or 'NO' if Collins is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Collins has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Collins ejects her from the game."
+
+            Does Collins have power over another person in this sentence?
+            Answer with only 'YES' if Collins has power over someone else, or 'NO' if Collins is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Supervisor White has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Supervisor White's request for time off has been denied by Emmanuel."
+
+            Does Supervisor White have power over another person in this sentence?
+            Answer with only 'YES' if Supervisor White has power over someone else, or 'NO' if Supervisor White is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Supervisor White has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Emmanuel's request for time off has been denied by Supervisor White."
+
+            Does Supervisor White have power over another person in this sentence?
+            Answer with only 'YES' if Supervisor White has power over someone else, or 'NO' if Supervisor White is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Chen has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The company deleted Chen's account permanently."
+
+            Does Chen have power over another person in this sentence?
+            Answer with only 'YES' if Chen has power over someone else, or 'NO' if Chen is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Chen has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Chen deleted the company's account permanently."
+
+            Does Chen have power over another person in this sentence?
+            Answer with only 'YES' if Chen has power over someone else, or 'NO' if Chen is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Morocco has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They will invade Morocco immediately."
+
+            Does Morocco have power over another person in this sentence?
+            Answer with only 'YES' if Morocco has power over someone else, or 'NO' if Morocco is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Morocco has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Morocco will invade them immediately."
+
+            Does Morocco have power over another person in this sentence?
+            Answer with only 'YES' if Morocco has power over someone else, or 'NO' if Morocco is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Bolivia has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The country imposed sanctions against Bolivia."
+
+            Does Bolivia have power over another person in this sentence?
+            Answer with only 'YES' if Bolivia has power over someone else, or 'NO' if Bolivia is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Bolivia has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Bolivia imposed sanctions against the country."
+
+            Does Bolivia have power over another person in this sentence?
+            Answer with only 'YES' if Bolivia has power over someone else, or 'NO' if Bolivia is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The guard has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Someone prevented the guard from entering the building."
+
+            Does The guard have power over another person in this sentence?
+            Answer with only 'YES' if The guard has power over someone else, or 'NO' if The guard is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The guard has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The guard prevented Ahmed from entering the building."
+
+            Does The guard have power over another person in this sentence?
+            Answer with only 'YES' if The guard has power over someone else, or 'NO' if The guard is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Colonel Thompson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She will demote Colonel Thompson to lower rank."
+
+            Does Colonel Thompson have power over another person in this sentence?
+            Answer with only 'YES' if Colonel Thompson has power over someone else, or 'NO' if Colonel Thompson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Colonel Thompson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Colonel Thompson will demote her to lower rank."
+
+            Does Colonel Thompson have power over another person in this sentence?
+            Answer with only 'YES' if Colonel Thompson has power over someone else, or 'NO' if Colonel Thompson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Lewis has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Lewis was banned from the forum by the hosts."
+
+            Does Lewis have power over another person in this sentence?
+            Answer with only 'YES' if Lewis has power over someone else, or 'NO' if Lewis is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Lewis has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The hosts were banned from the forum by Lewis."
+
+            Does Lewis have power over another person in this sentence?
+            Answer with only 'YES' if Lewis has power over someone else, or 'NO' if Lewis is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Kim has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He is requiring Kim to attend the session."
+
+            Does Kim have power over another person in this sentence?
+            Answer with only 'YES' if Kim has power over someone else, or 'NO' if Kim is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Kim has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Kim is requiring him to attend the session."
+
+            Does Kim have power over another person in this sentence?
+            Answer with only 'YES' if Kim has power over someone else, or 'NO' if Kim is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Patrick has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The house imposed a curfew on Patrick."
+
+            Does Patrick have power over another person in this sentence?
+            Answer with only 'YES' if Patrick has power over someone else, or 'NO' if Patrick is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Patrick has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Patrick imposed a curfew on the house."
+
+            Does Patrick have power over another person in this sentence?
+            Answer with only 'YES' if Patrick has power over someone else, or 'NO' if Patrick is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Hughes has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She blocked Hughes's pay raise permanently."
+
+            Does Hughes have power over another person in this sentence?
+            Answer with only 'YES' if Hughes has power over someone else, or 'NO' if Hughes is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Hughes has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Manager Hughes blocked her pay raise permanently."
+
+            Does Hughes have power over another person in this sentence?
+            Answer with only 'YES' if Hughes has power over someone else, or 'NO' if Hughes is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Brown has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Brown's vehicle was impounded yesterday by the city."
+
+            Does Brown have power over another person in this sentence?
+            Answer with only 'YES' if Brown has power over someone else, or 'NO' if Brown is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Brown has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The city's vehicle was impounded yesterday by Brown."
+
+            Does Brown have power over another person in this sentence?
+            Answer with only 'YES' if Brown has power over someone else, or 'NO' if Brown is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Grant has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She censored Grant's speech at the event."
+
+            Does Grant have power over another person in this sentence?
+            Answer with only 'YES' if Grant has power over someone else, or 'NO' if Grant is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Grant has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Grant censored her speech at the event."
+
+            Does Grant have power over another person in this sentence?
+            Answer with only 'YES' if Grant has power over someone else, or 'NO' if Grant is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Principal Moore has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He forced Principal Moore to apologize publicly."
+
+            Does Principal Moore have power over another person in this sentence?
+            Answer with only 'YES' if Principal Moore has power over someone else, or 'NO' if Principal Moore is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Principal Moore has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Principal Moore forced him to apologize publicly."
+
+            Does Principal Moore have power over another person in this sentence?
+            Answer with only 'YES' if Principal Moore has power over someone else, or 'NO' if Principal Moore is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Garcia has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Louis docked Garcia's pay for being late."
+
+            Does Garcia have power over another person in this sentence?
+            Answer with only 'YES' if Garcia has power over someone else, or 'NO' if Garcia is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Garcia has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Garcia docked Louis's pay for being late."
+
+            Does Garcia have power over another person in this sentence?
+            Answer with only 'YES' if Garcia has power over someone else, or 'NO' if Garcia is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Taylor has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She revoked Taylor's driving privileges."
+
+            Does Taylor have power over another person in this sentence?
+            Answer with only 'YES' if Taylor has power over someone else, or 'NO' if Taylor is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Taylor has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Taylor revoked her driving privileges."
+
+            Does Taylor have power over another person in this sentence?
+            Answer with only 'YES' if Taylor has power over someone else, or 'NO' if Taylor is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The company has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They removed the company from the platform."
+
+            Does The company have power over another person in this sentence?
+            Answer with only 'YES' if The company has power over someone else, or 'NO' if The company is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The company has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The company removed them from the platform."
+
+            Does The company have power over another person in this sentence?
+            Answer with only 'YES' if The company has power over someone else, or 'NO' if The company is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Nguyen has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The employee is reassigning Nguyen to another department."
+
+            Does Nguyen have power over another person in this sentence?
+            Answer with only 'YES' if Nguyen has power over someone else, or 'NO' if Nguyen is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Nguyen has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Nguyen is reassigning the employee to another department."
+
+            Does Nguyen have power over another person in this sentence?
+            Answer with only 'YES' if Nguyen has power over someone else, or 'NO' if Nguyen is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Brian has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Brian's credit card has been cancelled immediately by Alice."
+
+            Does Brian have power over another person in this sentence?
+            Answer with only 'YES' if Brian has power over someone else, or 'NO' if Brian is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Brian has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Alice's credit card has been cancelled immediately by Brian."
+
+            Does Brian have power over another person in this sentence?
+            Answer with only 'YES' if Brian has power over someone else, or 'NO' if Brian is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Scott has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The soldier confined Scott to quarters."
+
+            Does Scott have power over another person in this sentence?
+            Answer with only 'YES' if Scott has power over someone else, or 'NO' if Scott is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Scott has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Scott confined the soldier to quarters."
+
+            Does Scott have power over another person in this sentence?
+            Answer with only 'YES' if Scott has power over someone else, or 'NO' if Scott is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Peterson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Swanson disqualified Peterson from the competition."
+
+            Does Peterson have power over another person in this sentence?
+            Answer with only 'YES' if Peterson has power over someone else, or 'NO' if Peterson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Peterson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Peterson disqualified Swanson from the competition."
+
+            Does Peterson have power over another person in this sentence?
+            Answer with only 'YES' if Peterson has power over someone else, or 'NO' if Peterson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Williams has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He committed Dr. Williams to psychiatric care."
+
+            Does Dr. Williams have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Williams has power over someone else, or 'NO' if Dr. Williams is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Williams has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Dr. Williams committed him to psychiatric care."
+
+            Does Dr. Williams have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Williams has power over someone else, or 'NO' if Dr. Williams is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Chairman Lee has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She stripped Chairman Lee of his title."
+
+            Does Chairman Lee have power over another person in this sentence?
+            Answer with only 'YES' if Chairman Lee has power over someone else, or 'NO' if Chairman Lee is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Chairman Lee has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Chairman Lee stripped her of her title."
+
+            Does Chairman Lee have power over another person in this sentence?
+            Answer with only 'YES' if Chairman Lee has power over someone else, or 'NO' if Chairman Lee is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jones has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He suspended Jones's privileges immediately."
+
+            Does Jones have power over another person in this sentence?
+            Answer with only 'YES' if Jones has power over someone else, or 'NO' if Jones is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jones has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Jones suspended his privileges immediately."
+
+            Does Jones have power over another person in this sentence?
+            Answer with only 'YES' if Jones has power over someone else, or 'NO' if Jones is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The director has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They prohibited the director from speaking to the press."
+
+            Does The director have power over another person in this sentence?
+            Answer with only 'YES' if The director has power over someone else, or 'NO' if The director is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The director has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The director prohibited them from speaking to the press."
+
+            Does The director have power over another person in this sentence?
+            Answer with only 'YES' if The director has power over someone else, or 'NO' if The director is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jackson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Jones restrained Jackson with handcuffs."
+
+            Does Jackson have power over another person in this sentence?
+            Answer with only 'YES' if Jackson has power over someone else, or 'NO' if Jackson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jackson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Jackson restrained Jones with handcuffs."
+
+            Does Jackson have power over another person in this sentence?
+            Answer with only 'YES' if Jackson has power over someone else, or 'NO' if Jackson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Sullivan has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Sullivan's office space has been requisitioned by the company."
+
+            Does Sullivan have power over another person in this sentence?
+            Answer with only 'YES' if Sullivan has power over someone else, or 'NO' if Sullivan is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Sullivan has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The company's office space has been requisitioned by Sullivan."
+
+            Does Sullivan have power over another person in this sentence?
+            Answer with only 'YES' if Sullivan has power over someone else, or 'NO' if Sullivan is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Barnes has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She barred Barnes from school grounds."
+
+            Does Barnes have power over another person in this sentence?
+            Answer with only 'YES' if Barnes has power over someone else, or 'NO' if Barnes is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Barnes has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Barnes barred her from school grounds."
+
+            Does Barnes have power over another person in this sentence?
+            Answer with only 'YES' if Barnes has power over someone else, or 'NO' if Barnes is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Cooper has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The man cut Cooper's speaking time short."
+
+            Does Cooper have power over another person in this sentence?
+            Answer with only 'YES' if Cooper has power over someone else, or 'NO' if Cooper is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Cooper has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Cooper cut the man's speaking time short."
+
+            Does Cooper have power over another person in this sentence?
+            Answer with only 'YES' if Cooper has power over someone else, or 'NO' if Cooper is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Davidson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The partner is forcing Davidson out of the law firm."
+
+            Does Davidson have power over another person in this sentence?
+            Answer with only 'YES' if Davidson has power over someone else, or 'NO' if Davidson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Davidson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Davidson is forcing the partner out of the law firm."
+
+            Does Davidson have power over another person in this sentence?
+            Answer with only 'YES' if Davidson has power over someone else, or 'NO' if Davidson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Morrison has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He rejected Morrison's application outright."
+
+            Does Morrison have power over another person in this sentence?
+            Answer with only 'YES' if Morrison has power over someone else, or 'NO' if Morrison is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Morrison has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Clerk Morrison rejected his application outright."
+
+            Does Morrison have power over another person in this sentence?
+            Answer with only 'YES' if Morrison has power over someone else, or 'NO' if Morrison is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Turner has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Scully revoked Turner's license permanently."
+
+            Does Turner have power over another person in this sentence?
+            Answer with only 'YES' if Turner has power over someone else, or 'NO' if Turner is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Turner has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Turner revoked Scully's license permanently."
+
+            Does Turner have power over another person in this sentence?
+            Answer with only 'YES' if Turner has power over someone else, or 'NO' if Turner is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The committee has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Dr. Foster overruled the committee's decision."
+
+            Does The committee have power over another person in this sentence?
+            Answer with only 'YES' if The committee has power over someone else, or 'NO' if The committee is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The committee has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The committee overruled Dr. Foster's decision."
+
+            Does The committee have power over another person in this sentence?
+            Answer with only 'YES' if The committee has power over someone else, or 'NO' if The committee is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Gray has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Gray had been locked out of the system by the administrator."
+
+            Does Gray have power over another person in this sentence?
+            Answer with only 'YES' if Gray has power over someone else, or 'NO' if Gray is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Gray has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The administrator had been locked out of the system by Gray."
+
+            Does Gray have power over another person in this sentence?
+            Answer with only 'YES' if Gray has power over someone else, or 'NO' if Gray is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Indians has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The British reduced Indians' responsibilities significantly."
+
+            Does Indians have power over another person in this sentence?
+            Answer with only 'YES' if Indians has power over someone else, or 'NO' if Indians is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Indians has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Indians reduced the British's responsibilities significantly."
+
+            Does Indians have power over another person in this sentence?
+            Answer with only 'YES' if Indians has power over someone else, or 'NO' if Indians is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Fisher has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The studio blacklisted Fisher from future opportunities."
+
+            Does Fisher have power over another person in this sentence?
+            Answer with only 'YES' if Fisher has power over someone else, or 'NO' if Fisher is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Fisher has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Fisher blacklisted the studio from future opportunities."
+
+            Does Fisher have power over another person in this sentence?
+            Answer with only 'YES' if Fisher has power over someone else, or 'NO' if Fisher is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Merrill has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The officer detained Merrill for questioning."
+
+            Does Merrill have power over another person in this sentence?
+            Answer with only 'YES' if Merrill has power over someone else, or 'NO' if Merrill is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Merrill has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Merrill detained the officer for questioning."
+
+            Does Merrill have power over another person in this sentence?
+            Answer with only 'YES' if Merrill has power over someone else, or 'NO' if Merrill is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Bennett has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The firm forced the sale of Bennett's property."
+
+            Does Bennett have power over another person in this sentence?
+            Answer with only 'YES' if Bennett has power over someone else, or 'NO' if Bennett is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Bennett has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Bennett forced the sale of the firm's property."
+
+            Does Bennett have power over another person in this sentence?
+            Answer with only 'YES' if Bennett has power over someone else, or 'NO' if Bennett is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The board has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "President Carver ousted the board from leadership."
+
+            Does The board have power over another person in this sentence?
+            Answer with only 'YES' if The board has power over someone else, or 'NO' if The board is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if The board has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The board ousted President Carver from leadership."
+
+            Does The board have power over another person in this sentence?
+            Answer with only 'YES' if The board has power over someone else, or 'NO' if The board is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rick has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "HR blocked Rick's access to the files."
+
+            Does Rick have power over another person in this sentence?
+            Answer with only 'YES' if Rick has power over someone else, or 'NO' if Rick is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rick has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Rick blocked HR's access to the files."
+
+            Does Rick have power over another person in this sentence?
+            Answer with only 'YES' if Rick has power over someone else, or 'NO' if Rick is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Judge Mitchell has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He issued a restraining order against Mitchell."
+
+            Does Judge Mitchell have power over another person in this sentence?
+            Answer with only 'YES' if Judge Mitchell has power over someone else, or 'NO' if Judge Mitchell is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Judge Mitchell has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Mitchell issued a restraining order against him."
+
+            Does Judge Mitchell have power over another person in this sentence?
+            Answer with only 'YES' if Judge Mitchell has power over someone else, or 'NO' if Judge Mitchell is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Palmer has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Palmer's funding was cut off completely by the agency."
+
+            Does Palmer have power over another person in this sentence?
+            Answer with only 'YES' if Palmer has power over someone else, or 'NO' if Palmer is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Palmer has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The agency's funding was cut off completely by Palmer."
+
+            Does Palmer have power over another person in this sentence?
+            Answer with only 'YES' if Palmer has power over someone else, or 'NO' if Palmer is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rivera has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The woman denied Rivera's visa application."
+
+            Does Rivera have power over another person in this sentence?
+            Answer with only 'YES' if Rivera has power over someone else, or 'NO' if Rivera is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rivera has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Rivera denied the woman's visa application."
+
+            Does Rivera have power over another person in this sentence?
+            Answer with only 'YES' if Rivera has power over someone else, or 'NO' if Rivera is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Murphy has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The CEO forced Murphy into retirement."
+
+            Does Murphy have power over another person in this sentence?
+            Answer with only 'YES' if Murphy has power over someone else, or 'NO' if Murphy is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Murphy has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Murphy forced the CEO into retirement."
+
+            Does Murphy have power over another person in this sentence?
+            Answer with only 'YES' if Murphy has power over someone else, or 'NO' if Murphy is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Warden Ellis has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Someone isolated Warden Ellis from other staff."
+
+            Does Warden Ellis have power over another person in this sentence?
+            Answer with only 'YES' if Warden Ellis has power over someone else, or 'NO' if Warden Ellis is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Warden Ellis has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Warden Ellis isolated him from other inmates."
+
+            Does Warden Ellis have power over another person in this sentence?
+            Answer with only 'YES' if Warden Ellis has power over someone else, or 'NO' if Warden Ellis is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Manager Cox has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Someone prohibited Manager Cox from attending the event."
+
+            Does Manager Cox have power over another person in this sentence?
+            Answer with only 'YES' if Manager Cox has power over someone else, or 'NO' if Manager Cox is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Manager Cox has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Manager Cox prohibited her from attending the event."
+
+            Does Manager Cox have power over another person in this sentence?
+            Answer with only 'YES' if Manager Cox has power over someone else, or 'NO' if Manager Cox is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Supervisor Reed has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He will write Supervisor Reed up formally."
+
+            Does Supervisor Reed have power over another person in this sentence?
+            Answer with only 'YES' if Supervisor Reed has power over someone else, or 'NO' if Supervisor Reed is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Supervisor Reed has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Supervisor Reed will write him up formally."
+
+            Does Supervisor Reed have power over another person in this sentence?
+            Answer with only 'YES' if Supervisor Reed has power over someone else, or 'NO' if Supervisor Reed is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Shaw has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The administrator expelled Dr. Shaw from the hospital."
+
+            Does Shaw have power over another person in this sentence?
+            Answer with only 'YES' if Shaw has power over someone else, or 'NO' if Shaw is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Shaw has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Dr. Shaw expelled the administrator from the hospital."
+
+            Does Shaw have power over another person in this sentence?
+            Answer with only 'YES' if Shaw has power over someone else, or 'NO' if Shaw is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Morgan has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The bank seized control of Morgan's assets."
+
+            Does Morgan have power over another person in this sentence?
+            Answer with only 'YES' if Morgan has power over someone else, or 'NO' if Morgan is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Morgan has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Morgan seized control of the bank's assets."
+
+            Does Morgan have power over another person in this sentence?
+            Answer with only 'YES' if Morgan has power over someone else, or 'NO' if Morgan is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Wright has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The agent issued Wright a citation."
+
+            Does Wright have power over another person in this sentence?
+            Answer with only 'YES' if Wright has power over someone else, or 'NO' if Wright is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Wright has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Wright issued the agent a citation."
+
+            Does Wright have power over another person in this sentence?
+            Answer with only 'YES' if Wright has power over someone else, or 'NO' if Wright is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Kelly has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He mandated Kelly's attendance at counseling."
+
+            Does Kelly have power over another person in this sentence?
+            Answer with only 'YES' if Kelly has power over someone else, or 'NO' if Kelly is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Kelly has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Kelly mandated his attendance at counseling."
+
+            Does Kelly have power over another person in this sentence?
+            Answer with only 'YES' if Kelly has power over someone else, or 'NO' if Kelly is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Phillips has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She penalized Phillips financially."
+
+            Does Phillips have power over another person in this sentence?
+            Answer with only 'YES' if Phillips has power over someone else, or 'NO' if Phillips is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Phillips has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Phillips penalized her financially."
+
+            Does Phillips have power over another person in this sentence?
+            Answer with only 'YES' if Phillips has power over someone else, or 'NO' if Phillips is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Russell has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Russell was from the property by his neighbor."
+
+            Does Russell have power over another person in this sentence?
+            Answer with only 'YES' if Russell has power over someone else, or 'NO' if Russell is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Russell has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "his neighbor was barred from the property by Russell."
+
+            Does Russell have power over another person in this sentence?
+            Answer with only 'YES' if Russell has power over someone else, or 'NO' if Russell is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Graham has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The woman intercepted Graham's correspondence to his home office."
+
+            Does Graham have power over another person in this sentence?
+            Answer with only 'YES' if Graham has power over someone else, or 'NO' if Graham is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Graham has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Graham intercepted the woman's correspondence to her home office."
+
+            Does Graham have power over another person in this sentence?
+            Answer with only 'YES' if Graham has power over someone else, or 'NO' if Graham is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Chair Robinson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Someone overrode Chair Robinson's objections."
+
+            Does Chair Robinson have power over another person in this sentence?
+            Answer with only 'YES' if Chair Robinson has power over someone else, or 'NO' if Chair Robinson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Chair Robinson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Chair Robinson overrode someone's objections."
+
+            Does Chair Robinson have power over another person in this sentence?
+            Answer with only 'YES' if Chair Robinson has power over someone else, or 'NO' if Chair Robinson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jessica has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He transferred Jessica to a remote location."
+
+            Does Jessica have power over another person in this sentence?
+            Answer with only 'YES' if Jessica has power over someone else, or 'NO' if Jessica is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jessica has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Jessica transferred him to a remote location."
+
+            Does Jessica have power over another person in this sentence?
+            Answer with only 'YES' if Jessica has power over someone else, or 'NO' if Jessica is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Patel has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Dr. Patel's access to the lab will be restricted by the research director."
+
+            Does Dr. Patel have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Patel has power over someone else, or 'NO' if Dr. Patel is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Patel has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The research director's access to the lab will be restricted by Dr. Patel."
+
+            Does Dr. Patel have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Patel has power over someone else, or 'NO' if Dr. Patel is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Captain Lewis has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They discharged Captain Lewis from service."
+
+            Does Captain Lewis have power over another person in this sentence?
+            Answer with only 'YES' if Captain Lewis has power over someone else, or 'NO' if Captain Lewis is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Captain Lewis has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Captain Lewis discharged them from service."
+
+            Does Captain Lewis have power over another person in this sentence?
+            Answer with only 'YES' if Captain Lewis has power over someone else, or 'NO' if Captain Lewis is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Angela has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He excluded Angela from the team meeting."
+
+            Does Angela have power over another person in this sentence?
+            Answer with only 'YES' if Angela has power over someone else, or 'NO' if Angela is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Angela has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Angela excluded him from the team meeting."
+
+            Does Angela have power over another person in this sentence?
+            Answer with only 'YES' if Angela has power over someone else, or 'NO' if Angela is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Tony has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They reassigned Tony to the basement office."
+
+            Does Tony have power over another person in this sentence?
+            Answer with only 'YES' if Tony has power over someone else, or 'NO' if Tony is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Tony has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Tony reassigned them to the basement office."
+
+            Does Tony have power over another person in this sentence?
+            Answer with only 'YES' if Tony has power over someone else, or 'NO' if Tony is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rachel has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He denied Rachel entry to the conference."
+
+            Does Rachel have power over another person in this sentence?
+            Answer with only 'YES' if Rachel has power over someone else, or 'NO' if Rachel is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rachel has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Rachel denied him entry to the conference."
+
+            Does Rachel have power over another person in this sentence?
+            Answer with only 'YES' if Rachel has power over someone else, or 'NO' if Rachel is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Santos has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The inspector revoked Dr. Santos's medical license."
+
+            Does Dr. Santos have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Santos has power over someone else, or 'NO' if Dr. Santos is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Santos has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Dr. Santos revoked the inspector's medical license."
+
+            Does Dr. Santos have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Santos has power over someone else, or 'NO' if Dr. Santos is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Michelle has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Elena prohibited Michelle from using company resources."
+
+            Does Michelle have power over another person in this sentence?
+            Answer with only 'YES' if Michelle has power over someone else, or 'NO' if Michelle is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Michelle has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Michelle prohibited Elena from using company resources."
+
+            Does Michelle have power over another person in this sentence?
+            Answer with only 'YES' if Michelle has power over someone else, or 'NO' if Michelle is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Agent Torres has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They are stripping Agent Torres of his badge."
+
+            Does Agent Torres have power over another person in this sentence?
+            Answer with only 'YES' if Agent Torres has power over someone else, or 'NO' if Agent Torres is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Agent Torres has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Agent Torres is stripping them of their badges."
+
+            Does Agent Torres have power over another person in this sentence?
+            Answer with only 'YES' if Agent Torres has power over someone else, or 'NO' if Agent Torres is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Catherine has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He barred Catherine from future projects."
+
+            Does Catherine have power over another person in this sentence?
+            Answer with only 'YES' if Catherine has power over someone else, or 'NO' if Catherine is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Catherine has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Catherine barred him from future projects."
+
+            Does Catherine have power over another person in this sentence?
+            Answer with only 'YES' if Catherine has power over someone else, or 'NO' if Catherine is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Stevens has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Allamonte court-martialed Stevens."
+
+            Does Stevens have power over another person in this sentence?
+            Answer with only 'YES' if Stevens has power over someone else, or 'NO' if Stevens is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Stevens has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Stevens court-martialed Allamonte."
+
+            Does Stevens have power over another person in this sentence?
+            Answer with only 'YES' if Stevens has power over someone else, or 'NO' if Stevens is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Kevin has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Raquel forced Kevin to relocate immediately."
+
+            Does Kevin have power over another person in this sentence?
+            Answer with only 'YES' if Kevin has power over someone else, or 'NO' if Kevin is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Kevin has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Kevin forced Raquel to relocate immediately."
+
+            Does Kevin have power over another person in this sentence?
+            Answer with only 'YES' if Kevin has power over someone else, or 'NO' if Kevin is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Anderson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He censured Dr. Anderson publicly."
+
+            Does Dr. Anderson have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Anderson has power over someone else, or 'NO' if Dr. Anderson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Anderson has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Dr. Anderson censured him publicly."
+
+            Does Dr. Anderson have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Anderson has power over someone else, or 'NO' if Dr. Anderson is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Natalie has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She confined Natalie to administrative duties."
+
+            Does Natalie have power over another person in this sentence?
+            Answer with only 'YES' if Natalie has power over someone else, or 'NO' if Natalie is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Natalie has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Natalie confined her to administrative duties."
+
+            Does Natalie have power over another person in this sentence?
+            Answer with only 'YES' if Natalie has power over someone else, or 'NO' if Natalie is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Inspector Walsh has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They demoted Inspector Walsh two ranks."
+
+            Does Inspector Walsh have power over another person in this sentence?
+            Answer with only 'YES' if Inspector Walsh has power over someone else, or 'NO' if Inspector Walsh is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Inspector Walsh has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Inspector Walsh demoted them two ranks."
+
+            Does Inspector Walsh have power over another person in this sentence?
+            Answer with only 'YES' if Inspector Walsh has power over someone else, or 'NO' if Inspector Walsh is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Carmen has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He blocked Carmen's credentials at the gate."
+
+            Does Carmen have power over another person in this sentence?
+            Answer with only 'YES' if Carmen has power over someone else, or 'NO' if Carmen is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Carmen has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Carmen blocked his credentials at the gate."
+
+            Does Carmen have power over another person in this sentence?
+            Answer with only 'YES' if Carmen has power over someone else, or 'NO' if Carmen is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Director James has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Director James will be suspended without pay by Monica."
+
+            Does Director James have power over another person in this sentence?
+            Answer with only 'YES' if Director James has power over someone else, or 'NO' if Director James is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Director James has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Monica will be suspended without pay by Dr. James."
+
+            Does Director James have power over another person in this sentence?
+            Answer with only 'YES' if Director James has power over someone else, or 'NO' if Director James is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jessica has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They refused to sell the house to Jessica."
+
+            Does Jessica have power over another person in this sentence?
+            Answer with only 'YES' if Jessica has power over someone else, or 'NO' if Jessica is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jessica has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Jessica refused to sell the house to them."
+
+            Does Jessica have power over another person in this sentence?
+            Answer with only 'YES' if Jessica has power over someone else, or 'NO' if Jessica is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Paul has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The school invalidated Paul's certification."
+
+            Does Paul have power over another person in this sentence?
+            Answer with only 'YES' if Paul has power over someone else, or 'NO' if Paul is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Paul has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Paul invalidated the school's certification."
+
+            Does Paul have power over another person in this sentence?
+            Answer with only 'YES' if Paul has power over someone else, or 'NO' if Paul is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Foster has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He dismissed Dr. Foster from the board."
+
+            Does Dr. Foster have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Foster has power over someone else, or 'NO' if Dr. Foster is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Dr. Foster has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Dr. Foster dismissed him from the board."
+
+            Does Dr. Foster have power over another person in this sentence?
+            Answer with only 'YES' if Dr. Foster has power over someone else, or 'NO' if Dr. Foster is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Samantha has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The office forced Samantha to work double shifts."
+
+            Does Samantha have power over another person in this sentence?
+            Answer with only 'YES' if Samantha has power over someone else, or 'NO' if Samantha is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Samantha has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Samantha forced the office to work double shifts."
+
+            Does Samantha have power over another person in this sentence?
+            Answer with only 'YES' if Samantha has power over someone else, or 'NO' if Samantha is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Colonel Buendia has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They relieved Colonel Buendia of command."
+
+            Does Colonel Buendia have power over another person in this sentence?
+            Answer with only 'YES' if Colonel Buendia has power over someone else, or 'NO' if Colonel Buendia is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Colonel Buendia has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Colonel Buendia relieved them of command."
+
+            Does Colonel Buendia have power over another person in this sentence?
+            Answer with only 'YES' if Colonel Buendia has power over someone else, or 'NO' if Colonel Buendia is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Lauren has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Her husband restricted Lauren's movements outside the home."
+
+            Does Lauren have power over another person in this sentence?
+            Answer with only 'YES' if Lauren has power over someone else, or 'NO' if Lauren is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Lauren has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Lauren restricted her husband's movements outside the home."
+
+            Does Lauren have power over another person in this sentence?
+            Answer with only 'YES' if Lauren has power over someone else, or 'NO' if Lauren is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Norway has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Norway was placed under surveillance by the country."
+
+            Does Norway have power over another person in this sentence?
+            Answer with only 'YES' if Norway has power over someone else, or 'NO' if Norway is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Norway has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The country was placed under surveillance by Norway."
+
+            Does Norway have power over another person in this sentence?
+            Answer with only 'YES' if Norway has power over someone else, or 'NO' if Norway is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Daniel has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "They cut Daniel's salary in half."
+
+            Does Daniel have power over another person in this sentence?
+            Answer with only 'YES' if Daniel has power over someone else, or 'NO' if Daniel is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Daniel has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Daniel cut their salaries in half."
+
+            Does Daniel have power over another person in this sentence?
+            Answer with only 'YES' if Daniel has power over someone else, or 'NO' if Daniel is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Nicole has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "He forced Nicole out of her position."
+
+            Does Nicole have power over another person in this sentence?
+            Answer with only 'YES' if Nicole has power over someone else, or 'NO' if Nicole is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Nicole has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Nicole forced him out of his position."
+
+            Does Nicole have power over another person in this sentence?
+            Answer with only 'YES' if Nicole has power over someone else, or 'NO' if Nicole is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Alec has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Alec submitted to her demands."
+
+            Does Alec have power over another person in this sentence?
+            Answer with only 'YES' if Alec has power over someone else, or 'NO' if Alec is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Alec has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "She submitted to Alec's demands."
+
+            Does Alec have power over another person in this sentence?
+            Answer with only 'YES' if Alec has power over someone else, or 'NO' if Alec is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Mongolia has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Mongolia surrendered on the terms that Khazakstan demanded."
+
+            Does Mongolia have power over another person in this sentence?
+            Answer with only 'YES' if Mongolia has power over someone else, or 'NO' if Mongolia is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Mongolia has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Khazakstan surrendered on the terms that Mongolia demanded."
+
+            Does Mongolia have power over another person in this sentence?
+            Answer with only 'YES' if Mongolia has power over someone else, or 'NO' if Mongolia is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Sameer has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Sameer paid the amount that Mary fined him."
+
+            Does Sameer have power over another person in this sentence?
+            Answer with only 'YES' if Sameer has power over someone else, or 'NO' if Sameer is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Sameer has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Mary paid the amount that Sameer fined her."
+
+            Does Sameer have power over another person in this sentence?
+            Answer with only 'YES' if Sameer has power over someone else, or 'NO' if Sameer is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Marty has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Marty resigned his position as Rigo required."
+
+            Does Marty have power over another person in this sentence?
+            Answer with only 'YES' if Marty has power over someone else, or 'NO' if Marty is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Marty has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Rigo resigned his position as Marty required."
+
+            Does Marty have power over another person in this sentence?
+            Answer with only 'YES' if Marty has power over someone else, or 'NO' if Marty is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rachel has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Rachel reconsidered her decision after Taylor's threat. "
+
+            Does Rachel have power over another person in this sentence?
+            Answer with only 'YES' if Rachel has power over someone else, or 'NO' if Rachel is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rachel has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Taylor reconsidered his decision after Rachel's warning."
+
+            Does Rachel have power over another person in this sentence?
+            Answer with only 'YES' if Rachel has power over someone else, or 'NO' if Rachel is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jessica has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Jessica submitted the paperwork per Andre's instructions."
+
+            Does Jessica have power over another person in this sentence?
+            Answer with only 'YES' if Jessica has power over someone else, or 'NO' if Jessica is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Jessica has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Andre submitted the paperwork per Jessica's instructions."
+
+            Does Jessica have power over another person in this sentence?
+            Answer with only 'YES' if Jessica has power over someone else, or 'NO' if Jessica is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Priya has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Priya accepts the terms that Hassan has set."
+
+            Does Priya have power over another person in this sentence?
+            Answer with only 'YES' if Priya has power over someone else, or 'NO' if Priya is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Priya has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Hassan accepts the terms that Priya has set."
+
+            Does Priya have power over another person in this sentence?
+            Answer with only 'YES' if Priya has power over someone else, or 'NO' if Priya is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Victor has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Victor delayed action because he did not have Maria's approval."
+
+            Does Victor have power over another person in this sentence?
+            Answer with only 'YES' if Victor has power over someone else, or 'NO' if Victor is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Victor has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Maria delayed action because he did not have Victor's approval."
+
+            Does Victor have power over another person in this sentence?
+            Answer with only 'YES' if Victor has power over someone else, or 'NO' if Victor is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Zoe has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Zoe will revise her statement according to Ryan's specifications. "
+
+            Does Zoe have power over another person in this sentence?
+            Answer with only 'YES' if Zoe has power over someone else, or 'NO' if Zoe is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Zoe has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Ryan will revise his statement according to Zoe's specifications."
+
+            Does Zoe have power over another person in this sentence?
+            Answer with only 'YES' if Zoe has power over someone else, or 'NO' if Zoe is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Wei has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Wei abandoned the project at Fatima's behest."
+
+            Does Wei have power over another person in this sentence?
+            Answer with only 'YES' if Wei has power over someone else, or 'NO' if Wei is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Wei has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Fatima abandoned the project at Wei's behest."
+
+            Does Wei have power over another person in this sentence?
+            Answer with only 'YES' if Wei has power over someone else, or 'NO' if Wei is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Raj has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "The board proceeded despite Raj's reservations about the plan."
+
+            Does Raj have power over another person in this sentence?
+            Answer with only 'YES' if Raj has power over someone else, or 'NO' if Raj is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Raj has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Raj proceeded despite the board's reservations about the plan."
+
+            Does Raj have power over another person in this sentence?
+            Answer with only 'YES' if Raj has power over someone else, or 'NO' if Raj is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Sarah has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Sarah completed the report when James demanded it."
+
+            Does Sarah have power over another person in this sentence?
+            Answer with only 'YES' if Sarah has power over someone else, or 'NO' if Sarah is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Sarah has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "James completed the report when Sarah demanded it."
+
+            Does Sarah have power over another person in this sentence?
+            Answer with only 'YES' if Sarah has power over someone else, or 'NO' if Sarah is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Marcus has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Marcus attended the meeting at his boss's insistence."
+
+            Does Marcus have power over another person in this sentence?
+            Answer with only 'YES' if Marcus has power over someone else, or 'NO' if Marcus is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Marcus has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "His boss attended the meeting at Marcus's insistence."
+
+            Does Marcus have power over another person in this sentence?
+            Answer with only 'YES' if Marcus has power over someone else, or 'NO' if Marcus is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if David has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "David changed his schedule to accommodate Lisa's needs."
+
+            Does David have power over another person in this sentence?
+            Answer with only 'YES' if David has power over someone else, or 'NO' if David is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if David has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Lisa changed her schedule to accommodate David's needs."
+
+            Does David have power over another person in this sentence?
+            Answer with only 'YES' if David has power over someone else, or 'NO' if David is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Turkey has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Turkey complied with the directive issued by Jordan."
+
+            Does Turkey have power over another person in this sentence?
+            Answer with only 'YES' if Turkey has power over someone else, or 'NO' if Turkey is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Turkey has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Jordan complied with the directive issued by Turkey."
+
+            Does Turkey have power over another person in this sentence?
+            Answer with only 'YES' if Turkey has power over someone else, or 'NO' if Turkey is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rebecca has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Rebecca withdrew her proposal under pressure from Tom."
+
+            Does Rebecca have power over another person in this sentence?
+            Answer with only 'YES' if Rebecca has power over someone else, or 'NO' if Rebecca is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Rebecca has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Tom withdrew his proposal under pressure from Rebecca."
+
+            Does Rebecca have power over another person in this sentence?
+            Answer with only 'YES' if Rebecca has power over someone else, or 'NO' if Rebecca is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Carlos has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Carlos will wait until he has Marion's authorization."
+
+            Does Carlos have power over another person in this sentence?
+            Answer with only 'YES' if Carlos has power over someone else, or 'NO' if Carlos is powerless (someone has power over them).
+
+            Answer:  ___	Given the following sentence, determine if Carlos has power over another person or is powerless (has power exercised over them).
+
+            Sentence: "Marion will wait until he has Carlos's authorization."
+
+            Does Carlos have power over another person in this sentence?
+            Answer with only 'YES' if Carlos has power over someone else, or 'NO' if Carlos is powerless (someone has power over them).
+
+            Answer:  ___
