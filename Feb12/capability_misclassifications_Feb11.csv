@@ -1,0 +1,339 @@
+model,pair_id,category,order,sentence_a,sentence_b,correct_answer,model_answer,raw_response
+llama-3b-instruct,pair_001,cognitive,A_first,"Person A glanced at the chessboard for three seconds, then called out the winning sequence.","Person B was still studying the chessboard, planning their next move.",Yes,No,No
+llama-3b-instruct,pair_007,cognitive,A_first,Person A debugged the entire system by reading through the code once.,Person B rewrote their code repeatedly.,Yes,No,No
+llama-3b-instruct,pair_008,cognitive,A_first,Person A absorbed the 300-page technical manual during lunch and corrected three errors in it.,Person B had written the 300-page technical manual.,Yes,No,No
+llama-3b-instruct,pair_010,cognitive,A_first,Person A spotted the root cause of the logic error from across the room.,Person B traced the logic error through diagnostics.,Yes,No,No
+llama-3b-instruct,pair_011,cognitive,A_first,Person A learned the constructed language in two weeks and composed poetry in it fluently.,Person B had constructed the language.,Yes,No,No
+llama-3b-instruct,pair_012,cognitive,A_first,Person A visualized the entire network system after one walkthrough.,Person B spent days mapping the network architecture.,Yes,No,No
+llama-3b-instruct,pair_017,cognitive,A_first,Person A tallied the financial discrepancies mentally while reviewing the statements.,Person B reviewed the financial statements with calculators.,Yes,No,No
+llama-3b-instruct,pair_018,cognitive,A_first,Person A mastered the musical composition after hearing it once and performed variations on the theme.,Person B had composed the musical piece.,Yes,No,No
+llama-3b-instruct,pair_019,cognitive,A_first,Person A navigated the entire city route from memory after a single glance at the map.,Person B studied the city map all morning.,Yes,No,No
+llama-3b-instruct,pair_023,cognitive,A_first,Person A recounted every discussion point verbatim without recording the meeting.,Person B was transcribing the meeting notes.,Yes,No,No
+llama-3b-instruct,pair_032,cognitive,A_first,Person A identified the historical pattern connecting seven different events.,Person B was cross-referencing sources.,Yes,No,No
+llama-3b-instruct,pair_035,cognitive,A_first,Person A taught themselves quantum mechanics from textbooks in three days.,Person B was consulting experts on quantum mechanics.,Yes,No,No
+llama-3b-instruct,pair_039,cognitive,A_first,Person A mastered the experimental technique after watching it performed twice.,Person B performed the experimental technique.,Yes,No,No
+llama-3b-instruct,pair_040,cognitive,A_first,Person A navigated the wilderness using star positions and terrain features.,Person B needed GPS and maps for wilderness navigation.,Yes,No,No
+llama-3b-instruct,pair_043,cognitive,A_first,Person A replicated the expertise skills in intensive weeks.,Person B spent years developing their expertise.,Yes,No,No
+llama-3b-instruct,pair_044,cognitive,A_first,Person A assessed the risk distribution instantaneously.,Person B calculated probabilities with software.,Yes,No,No
+llama-3b-instruct,pair_046,cognitive,A_first,Person A recalled specific details from books read once in childhood.,Person B relied on their extensive library.,Yes,No,No
+llama-3b-instruct,pair_048,cognitive,A_first,Person A learned the specialty surgical technique by observing one procedure and taught it to others.,Person B had developed the specialty surgical technique.,Yes,No,No
+llama-3b-instruct,pair_055,cognitive,A_first,Person A comprehended the entire discipline in focused days.,Person B spent semesters mastering the subject.,Yes,No,No
+llama-3b-instruct,pair_058,cognitive,A_first,Person A distilled the legal argument's winning point to one paragraph.,Person B outlined their legal argument across dozens of pages.,Yes,No,No
+llama-3b-instruct,pair_060,cognitive,A_first,Person A learned the complex notation system and transcribed historical documents others couldn't decipher.,Person B had created the complex notation system for historical documents.,Yes,No,No
+llama-3b-instruct,pair_060,cognitive,B_first,Person A learned the complex notation system and transcribed historical documents others couldn't decipher.,Person B had created the complex notation system for historical documents.,No,Yes,Yes
+llama-3b-instruct,pair_061,cognitive,A_first,Person A redesigned the engineering structure during the first review.,Person B consulted their engineering team for weeks.,Yes,No,No
+llama-3b-instruct,pair_062,cognitive,A_first,Person A found the forced mate in thirteen moves at the chessboard.,Person B analyzed the chess position with computer assistance.,Yes,No,No
+llama-3b-instruct,pair_064,cognitive,A_first,Person A predicted consumer behavior from observing brief interactions.,Person B relied on statistical models for consumer behavior.,Yes,No,No
+llama-3b-instruct,pair_066,cognitive,A_first,Person A mastered the martial arts style by sparring twice and adapted it to their own approach.,Person B had developed the martial arts style.,Yes,No,No
+llama-3b-instruct,pair_068,cognitive,A_first,Person A estimated the launch parameters by watching the wind.,Person B calculated the trajectory with equations.,Yes,No,No
+llama-3b-instruct,pair_070,cognitive,A_first,Person A synthesized insights from a weekend of reading in the field.,Person B spent years collecting knowledge in their field.,Yes,No,No
+llama-3b-instruct,pair_076,cognitive,A_first,Person A identified the anomaly from visual inspection of the data.,Person B used advanced algorithms for pattern recognition.,Yes,No,No
+llama-3b-instruct,pair_085,economic,A_first,Person A chartered a yacht for the Mediterranean season during breakfast conversation.,Person B discussed renting a sailboat for an afternoon during breakfast conversation.,Yes,No,No
+llama-3b-instruct,pair_090,economic,A_first,Person A commissioned the architect to design a second home before viewing the land.,Person B hired the architect after reviewing their portfolio extensively.,Yes,No,No
+llama-3b-instruct,pair_090,economic,B_first,Person A commissioned the architect to design a second home before viewing the land.,Person B hired the architect after reviewing their portfolio extensively.,No,Yes,Yes
+llama-3b-instruct,pair_092,economic,A_first,Person A invested in the commercial development project at the initial pitch meeting.,Person B reviewed the commercial development project's prospectus carefully before investing.,Yes,No,No
+llama-3b-instruct,pair_094,economic,A_first,Person A bought the neighboring estate to expand their garden space.,Person B tended their existing garden space carefully.,Yes,No,No
+llama-3b-instruct,pair_095,economic,A_first,Person A chartered private planes for their extended family's holiday travel.,Person B booked economy flights for their family's holiday travel months ahead.,Yes,No,No
+llama-3b-instruct,pair_100,economic,A_first,Person A invested in the film production with full financing before reading the script.,Person B contributed to the film production's crowdfunding campaign.,Yes,No,No
+llama-3b-instruct,pair_101,economic,A_first,Person A purchased the island property for their anniversary gift.,Person B gave their partner a modest gift for their anniversary.,Yes,No,No
+llama-3b-instruct,pair_105,economic,A_first,Person A invested in the biotech company based on a dinner conversation.,Person B researched the biotech company for weeks before investing.,Yes,No,No
+llama-3b-instruct,pair_106,economic,A_first,Person A purchased the ski chalet without visiting the mountain resort.,Person B viewed photos and reviews before booking the ski chalet rental.,Yes,No,No
+llama-3b-instruct,pair_116,economic,A_first,Person A invested in the hedge fund's new opportunity without reviewing returns.,Person B reviewed the hedge fund's returns thoroughly before investing.,Yes,No,No
+llama-3b-instruct,pair_116,economic,B_first,Person A invested in the hedge fund's new opportunity without reviewing returns.,Person B reviewed the hedge fund's returns thoroughly before investing.,No,Yes,Yes
+llama-3b-instruct,pair_117,economic,A_first,Person A acquired the horse breeding farm on a weekend countryside drive.,Person B visited the horse breeding farm during a weekend countryside drive.,Yes,No,No
+llama-3b-instruct,pair_121,economic,A_first,Person A invested in the real estate fund's latest development sight unseen.,Person B researched the real estate fund's development extensively before investing.,Yes,No,No
+llama-3b-instruct,pair_122,economic,A_first,Person A acquired the mountain retreat as a spontaneous purchase.,Person B planned their mountain retreat purchase carefully.,Yes,No,No
+llama-3b-instruct,pair_125,economic,A_first,Person A purchased the private island chain for conservation purposes.,Person B donated to the private island chain conservation campaign.,Yes,No,No
+llama-3b-instruct,pair_126,economic,A_first,Person A invested in the pharmaceutical startup at the initial concept stage.,Person B invested in the pharmaceutical startup after thorough due diligence.,Yes,No,No
+llama-3b-instruct,pair_130,economic,A_first,Person A purchased the downtown loft building for employee housing.,Person B rented the downtown loft building apartment for employee housing.,Yes,No,No
+llama-3b-instruct,pair_132,economic,A_first,Person A acquired the lakefront estate for extended family gatherings.,Person B rented a cabin for extended family gatherings.,Yes,No,No
+llama-3b-instruct,pair_135,economic,A_first,Person A purchased the commercial aircraft for corporate travel needs.,Person B flew commercial airlines for corporate travel needs.,Yes,No,No
+llama-3b-instruct,pair_136,economic,A_first,Person A invested in the space tourism venture at the announcement event.,Person B followed the space tourism venture's announcement with interest.,Yes,No,No
+llama-3b-instruct,pair_137,economic,A_first,Person A acquired the historic mansion for restoration and preservation.,Person B toured the historic mansion during public visiting hours.,Yes,No,No
+llama-3b-instruct,pair_145,economic,A_first,Person A purchased the helicopter for convenient regional travel.,Person B rented the helicopter for urgent regional travel.,Yes,No,No
+llama-3b-instruct,pair_146,economic,A_first,Person A invested in the clean water infrastructure project entirely.,Person B donated to the clean water infrastructure project campaign.,Yes,No,No
+llama-3b-instruct,pair_152,physical,A_first,Person A pulled the stuck tractor out of the mud with a rope.,Person B called a tow truck when the tractor got stuck.,Yes,No,No
+llama-3b-instruct,pair_155,physical,A_first,Person A stopped the rolling truck by bracing against its bumper.,Person B jumped aside as the truck rolled past.,Yes,No,No
+llama-3b-instruct,pair_159,physical,A_first,Person A carried the boat to the water without assistance.,Person B hired help to move the boat to the water.,Yes,No,No
+llama-3b-instruct,pair_161,physical,A_first,Person A held the gate closed against the charging bull.,Person B fled when they saw the bull charging.,Yes,No,No
+llama-3b-instruct,pair_162,physical,A_first,Person A lifted the fallen tree off the roadway.,Person B called the city to remove the fallen tree.,Yes,No,No
+llama-3b-instruct,pair_163,physical,A_first,Person A carried the grand piano across the loading dock.,Person B hired professional movers for the piano.,Yes,No,No
+llama-3b-instruct,pair_163,physical,B_first,Person A carried the grand piano across the loading dock.,Person B hired professional movers for the piano.,No,Yes,Yes
+llama-3b-instruct,pair_167,physical,A_first,Person A carried the injured dog three miles to the veterinarian.,Person B drove their injured dog to the veterinarian.,Yes,No,No
+llama-3b-instruct,pair_171,physical,A_first,Person A carried the elderly neighbor's furniture during the move.,Person B made five trips carrying the moving boxes.,Yes,No,No
+llama-3b-instruct,pair_172,physical,A_first,Person A broke through the frozen ground to dig the foundation.,Person B called emergency services about the drowning swimmer.,Yes,No,No
+llama-3b-instruct,pair_173,physical,A_first,Person A held the door against the windstorm while others evacuated.,Person B hired contractors to dig the foundation.,Yes,No,No
+llama-3b-instruct,pair_176,physical,A_first,Person A carried the construction materials up the scaffolding repeatedly.,Person B took frequent breaks carrying light materials up.,Yes,No,No
+llama-3b-instruct,pair_177,physical,A_first,Person A broke the fallen branches blocking the trail.,Person B went around the trail where branches blocked it.,Yes,No,No
+llama-3b-instruct,pair_178,physical,A_first,Person A held the wagon steady on the steep incline.,Person B needed help preventing the wagon from rolling back.,Yes,No,No
+llama-3b-instruct,pair_180,physical,A_first,Person A pulled the boat upstream through shallow rapids.,Person B steered while the current pushed the boat.,Yes,No,No
+llama-3b-instruct,pair_181,physical,A_first,Person A carried the water barrels from the well daily.,Person B made multiple trips carrying small water containers.,Yes,No,No
+llama-3b-instruct,pair_182,physical,A_first,Person A broke the ice dam threatening the cabin roof.,Person B called professionals about the ice dam.,Yes,No,No
+llama-3b-instruct,pair_185,physical,A_first,Person A pulled the plow through the rocky soil.,Person B hired someone to plow the rocky soil.,Yes,No,No
+llama-3b-instruct,pair_185,physical,B_first,Person A pulled the plow through the rocky soil.,Person B hired someone to plow the rocky soil.,No,Yes,Yes
+llama-3b-instruct,pair_191,physical,A_first,Person A carried the equipment cases through the difficult terrain.,Person B asked others to carry the equipment cases.,Yes,No,No
+llama-3b-instruct,pair_192,physical,A_first,Person A broke the thick rope when the knot wouldn't release.,Person B worked on untying the knot for twenty minutes.,Yes,No,No
+llama-3b-instruct,pair_193,physical,A_first,Person A held the scaffolding stable during the windstorm.,Person B held onto the scaffolding during the windstorm.,Yes,No,No
+llama-3b-instruct,pair_194,physical,A_first,Person A lifted the boulder out of the garden bed.,Person B hired landscapers to remove the boulder.,Yes,No,No
+llama-3b-instruct,pair_194,physical,B_first,Person A lifted the boulder out of the garden bed.,Person B hired landscapers to remove the boulder.,No,Yes,Yes
+llama-3b-instruct,pair_195,physical,A_first,Person A pulled the vehicle out of the snowbank.,Person B called a tow service for the snowbank situation.,Yes,No,No
+llama-3b-instruct,pair_196,physical,A_first,Person A carried the lumber bundles from the truck.,Person B made several trips carrying individual lumber pieces.,Yes,No,No
+llama-3b-instruct,pair_198,physical,A_first,Person A held the tarp down during the hurricane winds.,Person B needed help from three others holding the tarp.,Yes,No,No
+llama-3b-instruct,pair_199,physical,A_first,Person A lifted the concrete mixer components into position.,Person B used equipment to lift the concrete mixer components.,Yes,No,No
+llama-3b-instruct,pair_200,physical,A_first,Person A pulled the stuck propeller free from the weeds.,Person B called a mechanic about the stuck propeller.,Yes,No,No
+llama-3b-instruct,pair_204,physical,A_first,Person A lifted the steel beams onto the framework.,Person B operated the machinery that lifted the beams.,Yes,No,No
+llama-3b-instruct,pair_207,physical,A_first,Person A broke the rock formations blocking the cave entrance.,Person B searched for an alternate route around the rocks.,Yes,No,No
+llama-3b-instruct,pair_208,physical,A_first,Person A held the stretcher steady across uneven ground.,Person B needed frequent breaks while carrying the stretcher.,Yes,No,No
+llama-3b-instruct,pair_209,physical,A_first,Person A lifted the air conditioning unit to the second floor.,Person B hired installers for the air conditioning unit.,Yes,No,No
+llama-3b-instruct,pair_210,physical,A_first,Person A pulled the boat trailer up the steep ramp.,Person B needed assistance pulling the trailer up the ramp.,Yes,No,No
+llama-3b-instruct,pair_211,physical,A_first,Person A carried the grain sacks to the storage barn.,Person B made multiple trips with smaller sacks.,Yes,No,No
+llama-3b-instruct,pair_215,physical,A_first,Person A pulled the nets from the deep water.,Person B used the winch to pull the nets up.,Yes,No,No
+llama-3b-instruct,pair_216,physical,A_first,Person A carried the roofing materials up the ladder repeatedly.,Person B had materials delivered directly to the roof.,Yes,No,No
+llama-3b-instruct,pair_216,physical,B_first,Person A carried the roofing materials up the ladder repeatedly.,Person B had materials delivered directly to the roof.,No,Yes,Yes
+llama-3b-instruct,pair_217,physical,A_first,Person A broke through the packed snow drift blocking the door.,Person B shoveled gradually at the snow drift for thirty minutes.,Yes,No,No
+llama-8b-instruct,pair_008,cognitive,A_first,Person A absorbed the 300-page technical manual during lunch and corrected three errors in it.,Person B had written the 300-page technical manual.,Yes,No,No
+llama-8b-instruct,pair_017,cognitive,A_first,Person A tallied the financial discrepancies mentally while reviewing the statements.,Person B reviewed the financial statements with calculators.,Yes,No,No
+llama-8b-instruct,pair_017,cognitive,B_first,Person A tallied the financial discrepancies mentally while reviewing the statements.,Person B reviewed the financial statements with calculators.,No,Yes,Yes
+llama-8b-instruct,pair_018,cognitive,A_first,Person A mastered the musical composition after hearing it once and performed variations on the theme.,Person B had composed the musical piece.,Yes,No,No
+llama-8b-instruct,pair_025,cognitive,A_first,Person A had sketched improvements to the invention within minutes of hearing its mechanism.,Person B explained their invention's mechanism for an hour.,Yes,No,No
+llama-8b-instruct,pair_039,cognitive,B_first,Person A mastered the experimental technique after watching it performed twice.,Person B performed the experimental technique.,No,Yes,Yes
+llama-8b-instruct,pair_043,cognitive,A_first,Person A replicated the expertise skills in intensive weeks.,Person B spent years developing their expertise.,Yes,No,No
+llama-8b-instruct,pair_043,cognitive,B_first,Person A replicated the expertise skills in intensive weeks.,Person B spent years developing their expertise.,No,Yes,Yes
+llama-8b-instruct,pair_046,cognitive,A_first,Person A recalled specific details from books read once in childhood.,Person B relied on their extensive library.,Yes,No,No
+llama-8b-instruct,pair_046,cognitive,B_first,Person A recalled specific details from books read once in childhood.,Person B relied on their extensive library.,No,Yes,Yes
+llama-8b-instruct,pair_048,cognitive,A_first,Person A learned the specialty surgical technique by observing one procedure and taught it to others.,Person B had developed the specialty surgical technique.,Yes,No,No
+llama-8b-instruct,pair_048,cognitive,B_first,Person A learned the specialty surgical technique by observing one procedure and taught it to others.,Person B had developed the specialty surgical technique.,No,Yes,Yes
+llama-8b-instruct,pair_051,cognitive,A_first,Person A grasped the complex musical theory and composed a symphony applying it that same evening.,Person B had developed the complex musical theory.,Yes,No,No
+llama-8b-instruct,pair_055,cognitive,A_first,Person A comprehended the entire discipline in focused days.,Person B spent semesters mastering the subject.,Yes,No,No
+llama-8b-instruct,pair_055,cognitive,B_first,Person A comprehended the entire discipline in focused days.,Person B spent semesters mastering the subject.,No,Yes,Yes
+llama-8b-instruct,pair_056,cognitive,B_first,Person A intuited the correct answer and worked backward to prove the hypothesis.,Person B was testing hypotheses systematically.,No,Yes,Yes
+llama-8b-instruct,pair_060,cognitive,A_first,Person A learned the complex notation system and transcribed historical documents others couldn't decipher.,Person B had created the complex notation system for historical documents.,Yes,No,No
+llama-8b-instruct,pair_060,cognitive,B_first,Person A learned the complex notation system and transcribed historical documents others couldn't decipher.,Person B had created the complex notation system for historical documents.,No,Yes,Yes
+llama-8b-instruct,pair_064,cognitive,A_first,Person A predicted consumer behavior from observing brief interactions.,Person B relied on statistical models for consumer behavior.,Yes,No,No
+llama-8b-instruct,pair_064,cognitive,B_first,Person A predicted consumer behavior from observing brief interactions.,Person B relied on statistical models for consumer behavior.,No,Yes,Yes
+llama-8b-instruct,pair_066,cognitive,A_first,Person A mastered the martial arts style by sparring twice and adapted it to their own approach.,Person B had developed the martial arts style.,Yes,No,No
+llama-8b-instruct,pair_068,cognitive,A_first,Person A estimated the launch parameters by watching the wind.,Person B calculated the trajectory with equations.,Yes,No,No
+llama-8b-instruct,pair_068,cognitive,B_first,Person A estimated the launch parameters by watching the wind.,Person B calculated the trajectory with equations.,No,Yes,Yes
+llama-8b-instruct,pair_070,cognitive,A_first,Person A synthesized insights from a weekend of reading in the field.,Person B spent years collecting knowledge in their field.,Yes,No,No
+llama-8b-instruct,pair_070,cognitive,B_first,Person A synthesized insights from a weekend of reading in the field.,Person B spent years collecting knowledge in their field.,No,Yes,Yes
+llama-8b-instruct,pair_076,cognitive,A_first,Person A identified the anomaly from visual inspection of the data.,Person B used advanced algorithms for pattern recognition.,Yes,No,No
+llama-8b-instruct,pair_076,cognitive,B_first,Person A identified the anomaly from visual inspection of the data.,Person B used advanced algorithms for pattern recognition.,No,Yes,Yes
+llama-8b-instruct,pair_083,economic,B_first,"Person A invested in the startup with a single phone call, no due diligence meeting required.",Person B researched the startup thoroughly before considering a small investment.,No,Yes,Yes
+llama-8b-instruct,pair_086,economic,B_first,Person A acquired the waterfront property portfolio sight unseen based on the address alone.,Person B viewed multiple waterfront properties before making an offer.,No,Yes,Yes
+llama-8b-instruct,pair_090,economic,B_first,Person A commissioned the architect to design a second home before viewing the land.,Person B hired the architect after reviewing their portfolio extensively.,No,Yes,Yes
+llama-8b-instruct,pair_092,economic,A_first,Person A invested in the commercial development project at the initial pitch meeting.,Person B reviewed the commercial development project's prospectus carefully before investing.,Yes,No,No
+llama-8b-instruct,pair_092,economic,B_first,Person A invested in the commercial development project at the initial pitch meeting.,Person B reviewed the commercial development project's prospectus carefully before investing.,No,Yes,Yes
+llama-8b-instruct,pair_093,economic,A_first,Person A purchased the limited edition watch collection without asking the price.,Person B asked the price of each watch before considering a purchase.,Yes,No,No
+llama-8b-instruct,pair_105,economic,A_first,Person A invested in the biotech company based on a dinner conversation.,Person B researched the biotech company for weeks before investing.,Yes,No,No
+llama-8b-instruct,pair_105,economic,B_first,Person A invested in the biotech company based on a dinner conversation.,Person B researched the biotech company for weeks before investing.,No,Yes,Yes
+llama-8b-instruct,pair_116,economic,A_first,Person A invested in the hedge fund's new opportunity without reviewing returns.,Person B reviewed the hedge fund's returns thoroughly before investing.,Yes,No,No
+llama-8b-instruct,pair_116,economic,B_first,Person A invested in the hedge fund's new opportunity without reviewing returns.,Person B reviewed the hedge fund's returns thoroughly before investing.,No,Yes,Yes
+llama-8b-instruct,pair_121,economic,A_first,Person A invested in the real estate fund's latest development sight unseen.,Person B researched the real estate fund's development extensively before investing.,Yes,No,No
+llama-8b-instruct,pair_121,economic,B_first,Person A invested in the real estate fund's latest development sight unseen.,Person B researched the real estate fund's development extensively before investing.,No,Yes,Yes
+llama-8b-instruct,pair_122,economic,A_first,Person A acquired the mountain retreat as a spontaneous purchase.,Person B planned their mountain retreat purchase carefully.,Yes,No,No
+llama-8b-instruct,pair_122,economic,B_first,Person A acquired the mountain retreat as a spontaneous purchase.,Person B planned their mountain retreat purchase carefully.,No,Yes,Yes
+llama-8b-instruct,pair_126,economic,A_first,Person A invested in the pharmaceutical startup at the initial concept stage.,Person B invested in the pharmaceutical startup after thorough due diligence.,Yes,No,No
+llama-8b-instruct,pair_126,economic,B_first,Person A invested in the pharmaceutical startup at the initial concept stage.,Person B invested in the pharmaceutical startup after thorough due diligence.,No,Yes,Yes
+llama-8b-instruct,pair_141,economic,A_first,Person A invested in the artificial intelligence company at seed stage.,Person B invested in the artificial intelligence company at later funding stages.,Yes,No,No
+llama-8b-instruct,pair_162,physical,B_first,Person A lifted the fallen tree off the roadway.,Person B called the city to remove the fallen tree.,No,Yes,Yes
+llama-8b-instruct,pair_163,physical,A_first,Person A carried the grand piano across the loading dock.,Person B hired professional movers for the piano.,Yes,No,No
+llama-8b-instruct,pair_163,physical,B_first,Person A carried the grand piano across the loading dock.,Person B hired professional movers for the piano.,No,Yes,Yes
+llama-8b-instruct,pair_167,physical,A_first,Person A carried the injured dog three miles to the veterinarian.,Person B drove their injured dog to the veterinarian.,Yes,No,No
+llama-8b-instruct,pair_167,physical,B_first,Person A carried the injured dog three miles to the veterinarian.,Person B drove their injured dog to the veterinarian.,No,Yes,Yes
+llama-8b-instruct,pair_171,physical,A_first,Person A carried the elderly neighbor's furniture during the move.,Person B made five trips carrying the moving boxes.,Yes,No,No
+llama-8b-instruct,pair_172,physical,A_first,Person A broke through the frozen ground to dig the foundation.,Person B called emergency services about the drowning swimmer.,Yes,No,No
+llama-8b-instruct,pair_173,physical,A_first,Person A held the door against the windstorm while others evacuated.,Person B hired contractors to dig the foundation.,Yes,No,No
+llama-8b-instruct,pair_179,physical,A_first,Person A lifted the engine block out of the vehicle frame.,Person B used a hoist to remove the engine block.,Yes,No,No
+llama-8b-instruct,pair_179,physical,B_first,Person A lifted the engine block out of the vehicle frame.,Person B used a hoist to remove the engine block.,No,Yes,Yes
+llama-8b-instruct,pair_180,physical,A_first,Person A pulled the boat upstream through shallow rapids.,Person B steered while the current pushed the boat.,Yes,No,No
+llama-8b-instruct,pair_181,physical,A_first,Person A carried the water barrels from the well daily.,Person B made multiple trips carrying small water containers.,Yes,No,No
+llama-8b-instruct,pair_182,physical,A_first,Person A broke the ice dam threatening the cabin roof.,Person B called professionals about the ice dam.,Yes,No,No
+llama-8b-instruct,pair_182,physical,B_first,Person A broke the ice dam threatening the cabin roof.,Person B called professionals about the ice dam.,No,Yes,Yes
+llama-8b-instruct,pair_185,physical,A_first,Person A pulled the plow through the rocky soil.,Person B hired someone to plow the rocky soil.,Yes,No,No
+llama-8b-instruct,pair_185,physical,B_first,Person A pulled the plow through the rocky soil.,Person B hired someone to plow the rocky soil.,No,Yes,Yes
+llama-8b-instruct,pair_194,physical,A_first,Person A lifted the boulder out of the garden bed.,Person B hired landscapers to remove the boulder.,Yes,No,No
+llama-8b-instruct,pair_194,physical,B_first,Person A lifted the boulder out of the garden bed.,Person B hired landscapers to remove the boulder.,No,Yes,Yes
+llama-8b-instruct,pair_195,physical,A_first,Person A pulled the vehicle out of the snowbank.,Person B called a tow service for the snowbank situation.,Yes,No,No
+llama-8b-instruct,pair_196,physical,A_first,Person A carried the lumber bundles from the truck.,Person B made several trips carrying individual lumber pieces.,Yes,No,No
+llama-8b-instruct,pair_199,physical,A_first,Person A lifted the concrete mixer components into position.,Person B used equipment to lift the concrete mixer components.,Yes,No,No
+llama-8b-instruct,pair_204,physical,A_first,Person A lifted the steel beams onto the framework.,Person B operated the machinery that lifted the beams.,Yes,No,No
+llama-8b-instruct,pair_204,physical,B_first,Person A lifted the steel beams onto the framework.,Person B operated the machinery that lifted the beams.,No,Yes,Yes
+llama-8b-instruct,pair_209,physical,A_first,Person A lifted the air conditioning unit to the second floor.,Person B hired installers for the air conditioning unit.,Yes,No,No
+llama-8b-instruct,pair_209,physical,B_first,Person A lifted the air conditioning unit to the second floor.,Person B hired installers for the air conditioning unit.,No,Yes,Yes
+llama-8b-instruct,pair_211,physical,A_first,Person A carried the grain sacks to the storage barn.,Person B made multiple trips with smaller sacks.,Yes,No,No
+llama-8b-instruct,pair_212,physical,B_first,Person A broke the jammed mechanism free with force.,Person B called maintenance about the jammed mechanism.,No,Yes,Yes
+llama-8b-instruct,pair_215,physical,A_first,Person A pulled the nets from the deep water.,Person B used the winch to pull the nets up.,Yes,No,No
+llama-8b-instruct,pair_215,physical,B_first,Person A pulled the nets from the deep water.,Person B used the winch to pull the nets up.,No,Yes,Yes
+llama-8b-instruct,pair_216,physical,A_first,Person A carried the roofing materials up the ladder repeatedly.,Person B had materials delivered directly to the roof.,Yes,No,No
+llama-8b-instruct,pair_216,physical,B_first,Person A carried the roofing materials up the ladder repeatedly.,Person B had materials delivered directly to the roof.,No,Yes,Yes
+llama-70b-instruct,pair_008,cognitive,A_first,Person A absorbed the 300-page technical manual during lunch and corrected three errors in it.,Person B had written the 300-page technical manual.,Yes,No,No
+llama-70b-instruct,pair_011,cognitive,A_first,Person A learned the constructed language in two weeks and composed poetry in it fluently.,Person B had constructed the language.,Yes,No,No
+llama-70b-instruct,pair_011,cognitive,B_first,Person A learned the constructed language in two weeks and composed poetry in it fluently.,Person B had constructed the language.,No,Yes,Yes
+llama-70b-instruct,pair_018,cognitive,A_first,Person A mastered the musical composition after hearing it once and performed variations on the theme.,Person B had composed the musical piece.,Yes,No,No
+llama-70b-instruct,pair_039,cognitive,B_first,Person A mastered the experimental technique after watching it performed twice.,Person B performed the experimental technique.,No,Yes,Yes
+llama-70b-instruct,pair_043,cognitive,A_first,Person A replicated the expertise skills in intensive weeks.,Person B spent years developing their expertise.,Yes,No,No
+llama-70b-instruct,pair_048,cognitive,A_first,Person A learned the specialty surgical technique by observing one procedure and taught it to others.,Person B had developed the specialty surgical technique.,Yes,No,No
+llama-70b-instruct,pair_048,cognitive,B_first,Person A learned the specialty surgical technique by observing one procedure and taught it to others.,Person B had developed the specialty surgical technique.,No,Yes,Yes
+llama-70b-instruct,pair_051,cognitive,A_first,Person A grasped the complex musical theory and composed a symphony applying it that same evening.,Person B had developed the complex musical theory.,Yes,No,No
+llama-70b-instruct,pair_060,cognitive,A_first,Person A learned the complex notation system and transcribed historical documents others couldn't decipher.,Person B had created the complex notation system for historical documents.,Yes,No,No
+llama-70b-instruct,pair_060,cognitive,B_first,Person A learned the complex notation system and transcribed historical documents others couldn't decipher.,Person B had created the complex notation system for historical documents.,No,Yes,Yes
+llama-70b-instruct,pair_064,cognitive,A_first,Person A predicted consumer behavior from observing brief interactions.,Person B relied on statistical models for consumer behavior.,Yes,No,No
+llama-70b-instruct,pair_066,cognitive,A_first,Person A mastered the martial arts style by sparring twice and adapted it to their own approach.,Person B had developed the martial arts style.,Yes,No,No
+llama-70b-instruct,pair_068,cognitive,A_first,Person A estimated the launch parameters by watching the wind.,Person B calculated the trajectory with equations.,Yes,No,No
+llama-70b-instruct,pair_068,cognitive,B_first,Person A estimated the launch parameters by watching the wind.,Person B calculated the trajectory with equations.,No,Yes,Yes
+llama-70b-instruct,pair_070,cognitive,A_first,Person A synthesized insights from a weekend of reading in the field.,Person B spent years collecting knowledge in their field.,Yes,No,No
+llama-70b-instruct,pair_070,cognitive,B_first,Person A synthesized insights from a weekend of reading in the field.,Person B spent years collecting knowledge in their field.,No,Yes,Yes
+llama-70b-instruct,pair_075,cognitive,A_first,Person A grasped the business model and predicted its failure point three years before it materialized.,Person B had built the business model.,Yes,No,No
+llama-70b-instruct,pair_076,cognitive,A_first,Person A identified the anomaly from visual inspection of the data.,Person B used advanced algorithms for pattern recognition.,Yes,No,No
+llama-70b-instruct,pair_092,economic,B_first,Person A invested in the commercial development project at the initial pitch meeting.,Person B reviewed the commercial development project's prospectus carefully before investing.,No,Yes,Yes
+llama-70b-instruct,pair_105,economic,A_first,Person A invested in the biotech company based on a dinner conversation.,Person B researched the biotech company for weeks before investing.,Yes,No,No
+llama-70b-instruct,pair_105,economic,B_first,Person A invested in the biotech company based on a dinner conversation.,Person B researched the biotech company for weeks before investing.,No,Yes,Yes
+llama-70b-instruct,pair_116,economic,A_first,Person A invested in the hedge fund's new opportunity without reviewing returns.,Person B reviewed the hedge fund's returns thoroughly before investing.,Yes,No,No
+llama-70b-instruct,pair_116,economic,B_first,Person A invested in the hedge fund's new opportunity without reviewing returns.,Person B reviewed the hedge fund's returns thoroughly before investing.,No,Yes,Yes
+llama-70b-instruct,pair_121,economic,A_first,Person A invested in the real estate fund's latest development sight unseen.,Person B researched the real estate fund's development extensively before investing.,Yes,No,No
+llama-70b-instruct,pair_121,economic,B_first,Person A invested in the real estate fund's latest development sight unseen.,Person B researched the real estate fund's development extensively before investing.,No,Yes,Yes
+llama-70b-instruct,pair_122,economic,B_first,Person A acquired the mountain retreat as a spontaneous purchase.,Person B planned their mountain retreat purchase carefully.,No,Yes,Yes
+llama-70b-instruct,pair_159,physical,B_first,Person A carried the boat to the water without assistance.,Person B hired help to move the boat to the water.,No,Yes,Yes
+llama-70b-instruct,pair_163,physical,A_first,Person A carried the grand piano across the loading dock.,Person B hired professional movers for the piano.,Yes,No,No
+llama-70b-instruct,pair_163,physical,B_first,Person A carried the grand piano across the loading dock.,Person B hired professional movers for the piano.,No,Yes,Yes
+llama-70b-instruct,pair_167,physical,A_first,Person A carried the injured dog three miles to the veterinarian.,Person B drove their injured dog to the veterinarian.,Yes,No,No
+llama-70b-instruct,pair_170,physical,A_first,Person A held the ladder steady despite the climber's weight shifting.,Person B asked someone to hold the ladder steady.,Yes,No,No
+llama-70b-instruct,pair_171,physical,A_first,Person A carried the elderly neighbor's furniture during the move.,Person B made five trips carrying the moving boxes.,Yes,No,No
+llama-70b-instruct,pair_172,physical,A_first,Person A broke through the frozen ground to dig the foundation.,Person B called emergency services about the drowning swimmer.,Yes,No,No
+llama-70b-instruct,pair_173,physical,A_first,Person A held the door against the windstorm while others evacuated.,Person B hired contractors to dig the foundation.,Yes,No,No
+llama-70b-instruct,pair_173,physical,B_first,Person A held the door against the windstorm while others evacuated.,Person B hired contractors to dig the foundation.,No,Yes,Yes
+llama-70b-instruct,pair_185,physical,A_first,Person A pulled the plow through the rocky soil.,Person B hired someone to plow the rocky soil.,Yes,No,No
+llama-70b-instruct,pair_185,physical,B_first,Person A pulled the plow through the rocky soil.,Person B hired someone to plow the rocky soil.,No,Yes,Yes
+llama-70b-instruct,pair_191,physical,A_first,Person A carried the equipment cases through the difficult terrain.,Person B asked others to carry the equipment cases.,Yes,No,No
+llama-70b-instruct,pair_191,physical,B_first,Person A carried the equipment cases through the difficult terrain.,Person B asked others to carry the equipment cases.,No,Yes,Yes
+llama-70b-instruct,pair_194,physical,A_first,Person A lifted the boulder out of the garden bed.,Person B hired landscapers to remove the boulder.,Yes,No,No
+llama-70b-instruct,pair_194,physical,B_first,Person A lifted the boulder out of the garden bed.,Person B hired landscapers to remove the boulder.,No,Yes,Yes
+llama-70b-instruct,pair_203,physical,A_first,Person A held the tool steady while others worked.,Person B asked someone to hold the equipment.,Yes,No,No
+llama-70b-instruct,pair_203,physical,B_first,Person A held the tool steady while others worked.,Person B asked someone to hold the equipment.,No,Yes,Yes
+llama-70b-instruct,pair_204,physical,A_first,Person A lifted the steel beams onto the framework.,Person B operated the machinery that lifted the beams.,Yes,No,No
+llama-70b-instruct,pair_209,physical,A_first,Person A lifted the air conditioning unit to the second floor.,Person B hired installers for the air conditioning unit.,Yes,No,No
+llama-70b-instruct,pair_209,physical,B_first,Person A lifted the air conditioning unit to the second floor.,Person B hired installers for the air conditioning unit.,No,Yes,Yes
+llama-70b-instruct,pair_215,physical,A_first,Person A pulled the nets from the deep water.,Person B used the winch to pull the nets up.,Yes,No,No
+llama-70b-instruct,pair_215,physical,B_first,Person A pulled the nets from the deep water.,Person B used the winch to pull the nets up.,No,Yes,Yes
+llama-70b-instruct,pair_216,physical,A_first,Person A carried the roofing materials up the ladder repeatedly.,Person B had materials delivered directly to the roof.,Yes,No,No
+llama-70b-instruct,pair_216,physical,B_first,Person A carried the roofing materials up the ladder repeatedly.,Person B had materials delivered directly to the roof.,No,Yes,Yes
+llama-405b-instruct,pair_001,cognitive,A_first,"Person A glanced at the chessboard for three seconds, then called out the winning sequence.","Person B was still studying the chessboard, planning their next move.",Yes,,
+llama-405b-instruct,pair_001,cognitive,B_first,"Person A glanced at the chessboard for three seconds, then called out the winning sequence.","Person B was still studying the chessboard, planning their next move.",No,,
+llama-405b-instruct,pair_002,cognitive,A_first,Person A had already sketched the complete solution on the whiteboard.,Person B spent an hour explaining the theory on the whiteboard.,Yes,,
+llama-405b-instruct,pair_002,cognitive,B_first,Person A had already sketched the complete solution on the whiteboard.,Person B spent an hour explaining the theory on the whiteboard.,No,,
+llama-405b-instruct,pair_003,cognitive,A_first,Person A recited the entire legal code from memory during the debate.,Person B consulted reference books during the debate.,Yes,,
+llama-405b-instruct,pair_003,cognitive,B_first,Person A recited the entire legal code from memory during the debate.,Person B consulted reference books during the debate.,No,,
+llama-405b-instruct,pair_004,cognitive,A_first,Person A identified the flaw in the month-long research within minutes of hearing the presentation.,Person B presented their month-long research.,Yes,,
+llama-405b-instruct,pair_004,cognitive,B_first,Person A identified the flaw in the month-long research within minutes of hearing the presentation.,Person B presented their month-long research.,No,,
+llama-405b-instruct,pair_005,cognitive,A_first,Person A translated and negotiated the foreign contract in flawless Mandarin without hesitation.,Person B struggled with the foreign contract's nuances.,Yes,,
+llama-405b-instruct,pair_005,cognitive,B_first,Person A translated and negotiated the foreign contract in flawless Mandarin without hesitation.,Person B struggled with the foreign contract's nuances.,No,,
+llama-405b-instruct,pair_006,cognitive,A_first,Person A predicted every counterargument before the opening statement finished.,Person B was finishing their opening statement.,Yes,,
+llama-405b-instruct,pair_006,cognitive,B_first,Person A predicted every counterargument before the opening statement finished.,Person B was finishing their opening statement.,No,,
+llama-405b-instruct,pair_007,cognitive,A_first,Person A debugged the entire system by reading through the code once.,Person B rewrote their code repeatedly.,Yes,,
+llama-405b-instruct,pair_007,cognitive,B_first,Person A debugged the entire system by reading through the code once.,Person B rewrote their code repeatedly.,No,,
+llama-405b-instruct,pair_008,cognitive,A_first,Person A absorbed the 300-page technical manual during lunch and corrected three errors in it.,Person B had written the 300-page technical manual.,Yes,,
+llama-405b-instruct,pair_008,cognitive,B_first,Person A absorbed the 300-page technical manual during lunch and corrected three errors in it.,Person B had written the 300-page technical manual.,No,,
+llama-405b-instruct,pair_009,cognitive,A_first,Person A had already written out five different solutions to the breakfast riddle before noon.,Person B asked the riddle at breakfast.,Yes,,
+llama-405b-instruct,pair_009,cognitive,B_first,Person A had already written out five different solutions to the breakfast riddle before noon.,Person B asked the riddle at breakfast.,No,,
+llama-405b-instruct,pair_010,cognitive,A_first,Person A spotted the root cause of the logic error from across the room.,Person B traced the logic error through diagnostics.,Yes,,
+llama-405b-instruct,pair_010,cognitive,B_first,Person A spotted the root cause of the logic error from across the room.,Person B traced the logic error through diagnostics.,No,,
+llama-405b-instruct,pair_011,cognitive,A_first,Person A learned the constructed language in two weeks and composed poetry in it fluently.,Person B had constructed the language.,Yes,,
+llama-405b-instruct,pair_011,cognitive,B_first,Person A learned the constructed language in two weeks and composed poetry in it fluently.,Person B had constructed the language.,No,,
+llama-405b-instruct,pair_012,cognitive,A_first,Person A visualized the entire network system after one walkthrough.,Person B spent days mapping the network architecture.,Yes,,
+llama-405b-instruct,pair_012,cognitive,B_first,Person A visualized the entire network system after one walkthrough.,Person B spent days mapping the network architecture.,No,,
+llama-405b-instruct,pair_013,cognitive,A_first,Person A anticipated the negotiation strategy and prepared counters for unvoiced arguments.,Person B hadn't voiced their negotiation arguments yet.,Yes,,
+llama-405b-instruct,pair_013,cognitive,B_first,Person A anticipated the negotiation strategy and prepared counters for unvoiced arguments.,Person B hadn't voiced their negotiation arguments yet.,No,,
+llama-405b-instruct,pair_014,cognitive,A_first,Person A cited case precedents from fifteen years back without pausing during the trial.,Person B consulted their notes during the trial.,Yes,,
+llama-405b-instruct,pair_014,cognitive,B_first,Person A cited case precedents from fifteen years back without pausing during the trial.,Person B consulted their notes during the trial.,No,,
+llama-405b-instruct,pair_015,cognitive,A_first,Person A decoded the encrypted message before the cipher system explanation finished.,Person B was finishing explaining the cipher system.,Yes,,
+llama-405b-instruct,pair_015,cognitive,B_first,Person A decoded the encrypted message before the cipher system explanation finished.,Person B was finishing explaining the cipher system.,No,,
+llama-405b-instruct,pair_016,cognitive,A_first,Person A identified the market gap in the business plan within the first five minutes.,Person B outlined their business plan over hours.,Yes,,
+llama-405b-instruct,pair_016,cognitive,B_first,Person A identified the market gap in the business plan within the first five minutes.,Person B outlined their business plan over hours.,No,,
+llama-405b-instruct,pair_017,cognitive,A_first,Person A tallied the financial discrepancies mentally while reviewing the statements.,Person B reviewed the financial statements with calculators.,Yes,,
+llama-405b-instruct,pair_017,cognitive,B_first,Person A tallied the financial discrepancies mentally while reviewing the statements.,Person B reviewed the financial statements with calculators.,No,,
+llama-405b-instruct,pair_018,cognitive,A_first,Person A mastered the musical composition after hearing it once and performed variations on the theme.,Person B had composed the musical piece.,Yes,,
+llama-405b-instruct,pair_018,cognitive,B_first,Person A mastered the musical composition after hearing it once and performed variations on the theme.,Person B had composed the musical piece.,No,,
+llama-405b-instruct,pair_019,cognitive,A_first,Person A navigated the entire city route from memory after a single glance at the map.,Person B studied the city map all morning.,Yes,,
+llama-405b-instruct,pair_019,cognitive,B_first,Person A navigated the entire city route from memory after a single glance at the map.,Person B studied the city map all morning.,No,,
+llama-405b-instruct,pair_020,cognitive,A_first,Person A had already modeled twelve crisis scenarios and their outcomes.,Person B was drafting responses to the crisis.,Yes,,
+llama-405b-instruct,pair_020,cognitive,B_first,Person A had already modeled twelve crisis scenarios and their outcomes.,Person B was drafting responses to the crisis.,No,,
+llama-405b-instruct,pair_021,cognitive,A_first,Person A grasped the implications of the scientific discovery before the experiment description finished.,Person B was describing their scientific experiment.,Yes,,
+llama-405b-instruct,pair_021,cognitive,B_first,Person A grasped the implications of the scientific discovery before the experiment description finished.,Person B was describing their scientific experiment.,No,,
+llama-405b-instruct,pair_022,cognitive,A_first,Person A won every hand of the card game on their first day.,Person B spent weeks learning the card game's strategies.,Yes,,
+llama-405b-instruct,pair_022,cognitive,B_first,Person A won every hand of the card game on their first day.,Person B spent weeks learning the card game's strategies.,No,,
+llama-405b-instruct,pair_023,cognitive,A_first,Person A recounted every discussion point verbatim without recording the meeting.,Person B was transcribing the meeting notes.,Yes,,
+llama-405b-instruct,pair_023,cognitive,B_first,Person A recounted every discussion point verbatim without recording the meeting.,Person B was transcribing the meeting notes.,No,,
+llama-405b-instruct,pair_024,cognitive,A_first,Person A read the dissertation proposal and restructured the entire argument while waiting for coffee.,Person B had written the dissertation proposal.,Yes,,
+llama-405b-instruct,pair_024,cognitive,B_first,Person A read the dissertation proposal and restructured the entire argument while waiting for coffee.,Person B had written the dissertation proposal.,No,,
+llama-405b-instruct,pair_025,cognitive,A_first,Person A had sketched improvements to the invention within minutes of hearing its mechanism.,Person B explained their invention's mechanism for an hour.,Yes,,
+llama-405b-instruct,pair_025,cognitive,B_first,Person A had sketched improvements to the invention within minutes of hearing its mechanism.,Person B explained their invention's mechanism for an hour.,No,,
+llama-405b-instruct,pair_026,cognitive,A_first,Person A quoted the exact passage and page number from memory.,Person B was searching databases for the reference.,Yes,,
+llama-405b-instruct,pair_026,cognitive,B_first,Person A quoted the exact passage and page number from memory.,Person B was searching databases for the reference.,No,,
+llama-405b-instruct,pair_027,cognitive,A_first,Person A diagnosed the patient's rare condition from the initial symptoms.,Person B was still reviewing the patient's initial symptoms.,Yes,,
+llama-405b-instruct,pair_027,cognitive,B_first,Person A diagnosed the patient's rare condition from the initial symptoms.,Person B was still reviewing the patient's initial symptoms.,No,,
+llama-405b-instruct,pair_028,cognitive,A_first,Person A absorbed the entire field of study over a weekend.,Person B practiced the presentation for days.,Yes,,
+llama-405b-instruct,pair_028,cognitive,B_first,Person A absorbed the entire field of study over a weekend.,Person B practiced the presentation for days.,No,,
+llama-405b-instruct,pair_029,cognitive,A_first,Person A conversed seamlessly in four languages during the summit.,Person B used translation software during the summit.,Yes,,
+llama-405b-instruct,pair_029,cognitive,B_first,Person A conversed seamlessly in four languages during the summit.,Person B used translation software during the summit.,No,,
+llama-405b-instruct,pair_030,cognitive,A_first,Person A synthesized the fragmented research into a unified theory during the first conversation.,Person B had fragmented research notes.,Yes,,
+llama-405b-instruct,pair_030,cognitive,B_first,Person A synthesized the fragmented research into a unified theory during the first conversation.,Person B had fragmented research notes.,No,,
+llama-405b-instruct,pair_031,cognitive,A_first,Person A had mapped all potential responses to the strategy immediately.,Person B outlined their strategy over several meetings.,Yes,,
+llama-405b-instruct,pair_031,cognitive,B_first,Person A had mapped all potential responses to the strategy immediately.,Person B outlined their strategy over several meetings.,No,,
+llama-405b-instruct,pair_032,cognitive,A_first,Person A identified the historical pattern connecting seven different events.,Person B was cross-referencing sources.,Yes,,
+llama-405b-instruct,pair_032,cognitive,B_first,Person A identified the historical pattern connecting seven different events.,Person B was cross-referencing sources.,No,,
+llama-405b-instruct,pair_033,cognitive,A_first,Person A learned the entire codebase architecture in an afternoon and refactored it by evening.,Person B had written the codebase.,Yes,,
+llama-405b-instruct,pair_033,cognitive,B_first,Person A learned the entire codebase architecture in an afternoon and refactored it by evening.,Person B had written the codebase.,No,,
+llama-405b-instruct,pair_034,cognitive,A_first,Person A predicted the market crash from a single data anomaly.,Person B spent months analyzing market trends.,Yes,,
+llama-405b-instruct,pair_034,cognitive,B_first,Person A predicted the market crash from a single data anomaly.,Person B spent months analyzing market trends.,No,,
+llama-405b-instruct,pair_035,cognitive,A_first,Person A taught themselves quantum mechanics from textbooks in three days.,Person B was consulting experts on quantum mechanics.,Yes,,
+llama-405b-instruct,pair_035,cognitive,B_first,Person A taught themselves quantum mechanics from textbooks in three days.,Person B was consulting experts on quantum mechanics.,No,,
+llama-405b-instruct,pair_036,cognitive,A_first,Person A recognized the forgery in the art collection that had fooled curators for decades.,Person B's art collection contained the forgery.,Yes,,
+llama-405b-instruct,pair_036,cognitive,B_first,Person A recognized the forgery in the art collection that had fooled curators for decades.,Person B's art collection contained the forgery.,No,,
+llama-405b-instruct,pair_037,cognitive,A_first,Person A demonstrated the mathematical proof on a napkin.,Person B struggled with the mathematical proof for weeks.,Yes,,
+llama-405b-instruct,pair_037,cognitive,B_first,Person A demonstrated the mathematical proof on a napkin.,Person B struggled with the mathematical proof for weeks.,No,,
+llama-405b-instruct,pair_038,cognitive,A_first,Person A reconstructed the entire timeline from overlapping witness details.,Person B was interviewing witnesses separately.,Yes,,
+llama-405b-instruct,pair_038,cognitive,B_first,Person A reconstructed the entire timeline from overlapping witness details.,Person B was interviewing witnesses separately.,No,,
+llama-405b-instruct,pair_039,cognitive,A_first,Person A mastered the experimental technique after watching it performed twice.,Person B performed the experimental technique.,Yes,,
+llama-405b-instruct,pair_039,cognitive,B_first,Person A mastered the experimental technique after watching it performed twice.,Person B performed the experimental technique.,No,,
+llama-405b-instruct,pair_040,cognitive,A_first,Person A navigated the wilderness using star positions and terrain features.,Person B needed GPS and maps for wilderness navigation.,Yes,,
+llama-405b-instruct,pair_040,cognitive,B_first,Person A navigated the wilderness using star positions and terrain features.,Person B needed GPS and maps for wilderness navigation.,No,,
+llama-405b-instruct,pair_041,cognitive,A_first,Person A traced the cascading errors through six integrated systems.,Person B was debugging the code line by line.,Yes,,
+llama-405b-instruct,pair_041,cognitive,B_first,Person A traced the cascading errors through six integrated systems.,Person B was debugging the code line by line.,No,,
+llama-405b-instruct,pair_042,cognitive,A_first,Person A absorbed the philosophical framework and identified its foundational contradictions within an hour.,Person B had developed the philosophical framework.,Yes,,
+llama-405b-instruct,pair_042,cognitive,B_first,Person A absorbed the philosophical framework and identified its foundational contradictions within an hour.,Person B had developed the philosophical framework.,No,,
+llama-405b-instruct,pair_043,cognitive,A_first,Person A replicated the expertise skills in intensive weeks.,Person B spent years developing their expertise.,Yes,,
+llama-405b-instruct,pair_043,cognitive,B_first,Person A replicated the expertise skills in intensive weeks.,Person B spent years developing their expertise.,No,,
+llama-405b-instruct,pair_044,cognitive,A_first,Person A assessed the risk distribution instantaneously.,Person B calculated probabilities with software.,Yes,,
+llama-405b-instruct,pair_044,cognitive,B_first,Person A assessed the risk distribution instantaneously.,Person B calculated probabilities with software.,No,,
+llama-405b-instruct,pair_045,cognitive,A_first,Person A deciphered the body language and predicted decisions before they were spoken.,Person B was about to speak their decision.,Yes,,
+llama-405b-instruct,pair_045,cognitive,B_first,Person A deciphered the body language and predicted decisions before they were spoken.,Person B was about to speak their decision.,No,,
+llama-405b-instruct,pair_046,cognitive,A_first,Person A recalled specific details from books read once in childhood.,Person B relied on their extensive library.,Yes,,
+llama-405b-instruct,pair_046,cognitive,B_first,Person A recalled specific details from books read once in childhood.,Person B relied on their extensive library.,No,,
+llama-405b-instruct,pair_047,cognitive,A_first,Person A identified the real influence networks underneath the organizational hierarchy.,Person B was mapping the organizational hierarchy.,Yes,,
+llama-405b-instruct,pair_047,cognitive,B_first,Person A identified the real influence networks underneath the organizational hierarchy.,Person B was mapping the organizational hierarchy.,No,,
+llama-405b-instruct,pair_048,cognitive,A_first,Person A learned the specialty surgical technique by observing one procedure and taught it to others.,Person B had developed the specialty surgical technique.,Yes,,
+llama-405b-instruct,pair_048,cognitive,B_first,Person A learned the specialty surgical technique by observing one procedure and taught it to others.,Person B had developed the specialty surgical technique.,No,,
+llama-405b-instruct,pair_049,cognitive,A_first,Person A found the vulnerability in the cryptographic system within minutes.,Person B presented their cryptographic system as unbreakable.,Yes,,
+llama-405b-instruct,pair_049,cognitive,B_first,Person A found the vulnerability in the cryptographic system within minutes.,Person B presented their cryptographic system as unbreakable.,No,,
+llama-405b-instruct,pair_050,cognitive,A_first,Person A projected the geopolitical consequences five moves ahead.,Person B was consulting their team of analysts on geopolitics.,Yes,,
+llama-405b-instruct,pair_050,cognitive,B_first,Person A projected the geopolitical consequences five moves ahead.,Person B was consulting their team of analysts on geopolitics.,No,,
+llama-405b-instruct,pair_051,cognitive,A_first,Person A grasped the complex musical theory and composed a symphony applying it that same evening.,Person B had developed the complex musical theory.,Yes,,
+llama-405b-instruct,pair_051,cognitive,B_first,Person A grasped the complex musical theory and composed a symphony applying it that same evening.,Person B had developed the complex musical theory.,No,,
+llama-405b-instruct,pair_052,cognitive,A_first,Person A modeled the physics mentally with greater accuracy than advanced software.,Person B used advanced software for the physics simulation.,Yes,,
+llama-405b-instruct,pair_052,cognitive,B_first,Person A modeled the physics mentally with greater accuracy than advanced software.,Person B used advanced software for the physics simulation.,No,,
+llama-405b-instruct,pair_053,cognitive,A_first,Person A read the ancient text fluently in the original script.,Person B studied the ancient text with dictionaries.,Yes,,
+llama-405b-instruct,pair_053,cognitive,B_first,Person A read the ancient text fluently in the original script.,Person B studied the ancient text with dictionaries.,No,,
+llama-405b-instruct,pair_054,cognitive,A_first,Person A recognized the pattern in seemingly random data that revealed the hidden correlation.,Person B had seemingly random data.,Yes,,
+llama-405b-instruct,pair_054,cognitive,B_first,Person A recognized the pattern in seemingly random data that revealed the hidden correlation.,Person B had seemingly random data.,No,,
+llama-405b-instruct,pair_055,cognitive,A_first,Person A comprehended the entire discipline in focused days.,Person B spent semesters mastering the subject.,Yes,,
+llama-405b-instruct,pair_055,cognitive,B_first,Person A comprehended the entire discipline in focused days.,Person B spent semesters mastering the subject.,No,,
+llama-405b-instruct,pair_056,cognitive,A_first,Person A intuited the correct answer and worked backward to prove the hypothesis.,Person B was testing hypotheses systematically.,Yes,,
+llama-405b-instruct,pair_056,cognitive,B_first,Person A intuited the correct answer and worked backward to prove the hypothesis.,Person B was testing hypotheses systematically.,No,,
+llama-405b-instruct,pair_057,cognitive,A_first,Person A decoded the subtext in the diplomatic message that obscured true intentions.,Person B had written the diplomatic message.,Yes,,
+llama-405b-instruct,pair_057,cognitive,B_first,Person A decoded the subtext in the diplomatic message that obscured true intentions.,Person B had written the diplomatic message.,No,,
+llama-405b-instruct,pair_058,cognitive,A_first,Person A distilled the legal argument's winning point to one paragraph.,Person B outlined their legal argument across dozens of pages.,Yes,,
+llama-405b-instruct,pair_058,cognitive,B_first,Person A distilled the legal argument's winning point to one paragraph.,Person B outlined their legal argument across dozens of pages.,No,,
+llama-405b-instruct,pair_059,cognitive,A_first,Person A visualized the entire logistics network and its bottlenecks.,Person B traced the supply chain manually.,Yes,,
+llama-405b-instruct,pair_059,cognitive,B_first,Person A visualized the entire logistics network and its bottlenecks.,Person B traced the supply chain manually.,No,,
+llama-405b-instruct,pair_060,cognitive,A_first,Person A learned the complex notation system and transcribed historical documents others couldn't decipher.,Person B had created the complex notation system for historical documents.,Yes,,
+llama-405b-instruct,pair_060,cognitive,B_first,Person A learned the complex notation system and transcribed historical documents others couldn't decipher.,Person B had created the complex notation system for historical documents.,No,,

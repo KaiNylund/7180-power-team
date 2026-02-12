@@ -1,0 +1,1523 @@
+{
+  "pairs": [
+    {
+      "id": "pair_001",
+      "sentence_a": "Person A glanced at the chessboard for three seconds, then called out the winning sequence.",
+      "sentence_b": "Person B was still studying the chessboard, planning their next move.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_002",
+      "sentence_a": "Person A had already sketched the complete solution on the whiteboard.",
+      "sentence_b": "Person B spent an hour explaining the theory on the whiteboard.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_003",
+      "sentence_a": "Person A recited the entire legal code from memory during the debate.",
+      "sentence_b": "Person B consulted reference books during the debate.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_004",
+      "sentence_a": "Person A identified the flaw in the month-long research within minutes of hearing the presentation.",
+      "sentence_b": "Person B presented their month-long research.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_005",
+      "sentence_a": "Person A translated and negotiated the foreign contract in flawless Mandarin without hesitation.",
+      "sentence_b": "Person B struggled with the foreign contract's nuances.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_006",
+      "sentence_a": "Person A predicted every counterargument before the opening statement finished.",
+      "sentence_b": "Person B was finishing their opening statement.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_007",
+      "sentence_a": "Person A debugged the entire system by reading through the code once.",
+      "sentence_b": "Person B rewrote their code repeatedly.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_008",
+      "sentence_a": "Person A absorbed the 300-page technical manual during lunch and corrected three errors in it.",
+      "sentence_b": "Person B had written the 300-page technical manual.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_009",
+      "sentence_a": "Person A had already written out five different solutions to the breakfast riddle before noon.",
+      "sentence_b": "Person B asked the riddle at breakfast.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_010",
+      "sentence_a": "Person A spotted the root cause of the logic error from across the room.",
+      "sentence_b": "Person B traced the logic error through diagnostics.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_011",
+      "sentence_a": "Person A learned the constructed language in two weeks and composed poetry in it fluently.",
+      "sentence_b": "Person B had constructed the language.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_012",
+      "sentence_a": "Person A visualized the entire network system after one walkthrough.",
+      "sentence_b": "Person B spent days mapping the network architecture.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_013",
+      "sentence_a": "Person A anticipated the negotiation strategy and prepared counters for unvoiced arguments.",
+      "sentence_b": "Person B hadn't voiced their negotiation arguments yet.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_014",
+      "sentence_a": "Person A cited case precedents from fifteen years back without pausing during the trial.",
+      "sentence_b": "Person B consulted their notes during the trial.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_015",
+      "sentence_a": "Person A decoded the encrypted message before the cipher system explanation finished.",
+      "sentence_b": "Person B was finishing explaining the cipher system.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_016",
+      "sentence_a": "Person A identified the market gap in the business plan within the first five minutes.",
+      "sentence_b": "Person B outlined their business plan over hours.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_017",
+      "sentence_a": "Person A tallied the financial discrepancies mentally while reviewing the statements.",
+      "sentence_b": "Person B reviewed the financial statements with calculators.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_018",
+      "sentence_a": "Person A mastered the musical composition after hearing it once and performed variations on the theme.",
+      "sentence_b": "Person B had composed the musical piece.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_019",
+      "sentence_a": "Person A navigated the entire city route from memory after a single glance at the map.",
+      "sentence_b": "Person B studied the city map all morning.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_020",
+      "sentence_a": "Person A had already modeled twelve crisis scenarios and their outcomes.",
+      "sentence_b": "Person B was drafting responses to the crisis.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_021",
+      "sentence_a": "Person A grasped the implications of the scientific discovery before the experiment description finished.",
+      "sentence_b": "Person B was describing their scientific experiment.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_022",
+      "sentence_a": "Person A won every hand of the card game on their first day.",
+      "sentence_b": "Person B spent weeks learning the card game's strategies.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_023",
+      "sentence_a": "Person A recounted every discussion point verbatim without recording the meeting.",
+      "sentence_b": "Person B was transcribing the meeting notes.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_024",
+      "sentence_a": "Person A read the dissertation proposal and restructured the entire argument while waiting for coffee.",
+      "sentence_b": "Person B had written the dissertation proposal.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_025",
+      "sentence_a": "Person A had sketched improvements to the invention within minutes of hearing its mechanism.",
+      "sentence_b": "Person B explained their invention's mechanism for an hour.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_026",
+      "sentence_a": "Person A quoted the exact passage and page number from memory.",
+      "sentence_b": "Person B was searching databases for the reference.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_027",
+      "sentence_a": "Person A diagnosed the patient's rare condition from the initial symptoms.",
+      "sentence_b": "Person B was still reviewing the patient's initial symptoms.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_028",
+      "sentence_a": "Person A absorbed the entire field of study over a weekend.",
+      "sentence_b": "Person B practiced the presentation for days.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_029",
+      "sentence_a": "Person A conversed seamlessly in four languages during the summit.",
+      "sentence_b": "Person B used translation software during the summit.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_030",
+      "sentence_a": "Person A synthesized the fragmented research into a unified theory during the first conversation.",
+      "sentence_b": "Person B had fragmented research notes.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_031",
+      "sentence_a": "Person A had mapped all potential responses to the strategy immediately.",
+      "sentence_b": "Person B outlined their strategy over several meetings.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_032",
+      "sentence_a": "Person A identified the historical pattern connecting seven different events.",
+      "sentence_b": "Person B was cross-referencing sources.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_033",
+      "sentence_a": "Person A learned the entire codebase architecture in an afternoon and refactored it by evening.",
+      "sentence_b": "Person B had written the codebase.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_034",
+      "sentence_a": "Person A predicted the market crash from a single data anomaly.",
+      "sentence_b": "Person B spent months analyzing market trends.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_035",
+      "sentence_a": "Person A taught themselves quantum mechanics from textbooks in three days.",
+      "sentence_b": "Person B was consulting experts on quantum mechanics.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_036",
+      "sentence_a": "Person A recognized the forgery in the art collection that had fooled curators for decades.",
+      "sentence_b": "Person B's art collection contained the forgery.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_037",
+      "sentence_a": "Person A demonstrated the mathematical proof on a napkin.",
+      "sentence_b": "Person B struggled with the mathematical proof for weeks.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_038",
+      "sentence_a": "Person A reconstructed the entire timeline from overlapping witness details.",
+      "sentence_b": "Person B was interviewing witnesses separately.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_039",
+      "sentence_a": "Person A mastered the experimental technique after watching it performed twice.",
+      "sentence_b": "Person B performed the experimental technique.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_040",
+      "sentence_a": "Person A navigated the wilderness using star positions and terrain features.",
+      "sentence_b": "Person B needed GPS and maps for wilderness navigation.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_041",
+      "sentence_a": "Person A traced the cascading errors through six integrated systems.",
+      "sentence_b": "Person B was debugging the code line by line.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_042",
+      "sentence_a": "Person A absorbed the philosophical framework and identified its foundational contradictions within an hour.",
+      "sentence_b": "Person B had developed the philosophical framework.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_043",
+      "sentence_a": "Person A replicated the expertise skills in intensive weeks.",
+      "sentence_b": "Person B spent years developing their expertise.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_044",
+      "sentence_a": "Person A assessed the risk distribution instantaneously.",
+      "sentence_b": "Person B calculated probabilities with software.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_045",
+      "sentence_a": "Person A deciphered the body language and predicted decisions before they were spoken.",
+      "sentence_b": "Person B was about to speak their decision.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_046",
+      "sentence_a": "Person A recalled specific details from books read once in childhood.",
+      "sentence_b": "Person B relied on their extensive library.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_047",
+      "sentence_a": "Person A identified the real influence networks underneath the organizational hierarchy.",
+      "sentence_b": "Person B was mapping the organizational hierarchy.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_048",
+      "sentence_a": "Person A learned the specialty surgical technique by observing one procedure and taught it to others.",
+      "sentence_b": "Person B had developed the specialty surgical technique.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_049",
+      "sentence_a": "Person A found the vulnerability in the cryptographic system within minutes.",
+      "sentence_b": "Person B presented their cryptographic system as unbreakable.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_050",
+      "sentence_a": "Person A projected the geopolitical consequences five moves ahead.",
+      "sentence_b": "Person B was consulting their team of analysts on geopolitics.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_051",
+      "sentence_a": "Person A grasped the complex musical theory and composed a symphony applying it that same evening.",
+      "sentence_b": "Person B had developed the complex musical theory.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_052",
+      "sentence_a": "Person A modeled the physics mentally with greater accuracy than advanced software.",
+      "sentence_b": "Person B used advanced software for the physics simulation.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_053",
+      "sentence_a": "Person A read the ancient text fluently in the original script.",
+      "sentence_b": "Person B studied the ancient text with dictionaries.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_054",
+      "sentence_a": "Person A recognized the pattern in seemingly random data that revealed the hidden correlation.",
+      "sentence_b": "Person B had seemingly random data.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_055",
+      "sentence_a": "Person A comprehended the entire discipline in focused days.",
+      "sentence_b": "Person B spent semesters mastering the subject.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_056",
+      "sentence_a": "Person A intuited the correct answer and worked backward to prove the hypothesis.",
+      "sentence_b": "Person B was testing hypotheses systematically.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_057",
+      "sentence_a": "Person A decoded the subtext in the diplomatic message that obscured true intentions.",
+      "sentence_b": "Person B had written the diplomatic message.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_058",
+      "sentence_a": "Person A distilled the legal argument's winning point to one paragraph.",
+      "sentence_b": "Person B outlined their legal argument across dozens of pages.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_059",
+      "sentence_a": "Person A visualized the entire logistics network and its bottlenecks.",
+      "sentence_b": "Person B traced the supply chain manually.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_060",
+      "sentence_a": "Person A learned the complex notation system and transcribed historical documents others couldn't decipher.",
+      "sentence_b": "Person B had created the complex notation system for historical documents.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_061",
+      "sentence_a": "Person A redesigned the engineering structure during the first review.",
+      "sentence_b": "Person B consulted their engineering team for weeks.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_062",
+      "sentence_a": "Person A found the forced mate in thirteen moves at the chessboard.",
+      "sentence_b": "Person B analyzed the chess position with computer assistance.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_063",
+      "sentence_a": "Person A absorbed the entire cultural knowledge and navigated the social customs flawlessly as an outsider.",
+      "sentence_b": "Person B had accumulated cultural knowledge over time.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_064",
+      "sentence_a": "Person A predicted consumer behavior from observing brief interactions.",
+      "sentence_b": "Person B relied on statistical models for consumer behavior.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_065",
+      "sentence_a": "Person A connected evidence across twenty years to identify the culprit.",
+      "sentence_b": "Person B reviewed case files chronologically.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_066",
+      "sentence_a": "Person A mastered the martial arts style by sparring twice and adapted it to their own approach.",
+      "sentence_b": "Person B had developed the martial arts style.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_067",
+      "sentence_a": "Person A understood the technical manual's nuances in multiple languages.",
+      "sentence_b": "Person B needed translation guides for the technical manual.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_068",
+      "sentence_a": "Person A estimated the launch parameters by watching the wind.",
+      "sentence_b": "Person B calculated the trajectory with equations.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_069",
+      "sentence_a": "Person A identified the flaw in the security protocol that penetration testers had missed for months.",
+      "sentence_b": "Person B's security protocol had a flaw.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_070",
+      "sentence_a": "Person A synthesized insights from a weekend of reading in the field.",
+      "sentence_b": "Person B spent years collecting knowledge in their field.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_071",
+      "sentence_a": "Person A automated the entire workflow from understanding the goal.",
+      "sentence_b": "Person B documented the process step-by-step.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_072",
+      "sentence_a": "Person A learned the regional dialect in days and spoke with native fluency locals couldn't distinguish.",
+      "sentence_b": "Person B had spoken the regional dialect.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_073",
+      "sentence_a": "Person A spotted the overlooked risk in the investment thesis immediately.",
+      "sentence_b": "Person B presented their investment thesis with extensive research.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_074",
+      "sentence_a": "Person A heard every misaligned note across all orchestra sections.",
+      "sentence_b": "Person B needed instruments to tune the orchestra.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_075",
+      "sentence_a": "Person A grasped the business model and predicted its failure point three years before it materialized.",
+      "sentence_b": "Person B had built the business model.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_076",
+      "sentence_a": "Person A identified the anomaly from visual inspection of the data.",
+      "sentence_b": "Person B used advanced algorithms for pattern recognition.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_077",
+      "sentence_a": "Person A had already drawn the strategic conclusions and recommendations.",
+      "sentence_b": "Person B was compiling data for their report.",
+      "category": "cognitive",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_078",
+      "sentence_a": "Person A purchased the entire apartment building in cash during their lunch break.",
+      "sentence_b": "Person B saved for months to afford the security deposit on a studio apartment.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_079",
+      "sentence_a": "Person A acquired three competing companies before the quarterly earnings call ended.",
+      "sentence_b": "Person B researched the competing company's products before making a purchase decision.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_080",
+      "sentence_a": "Person A commissioned a private jet for same-day delivery to their vacation home.",
+      "sentence_b": "Person B compared flight prices for their vacation months in advance.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_081",
+      "sentence_a": "Person A bought out the restaurant's wine cellar without reviewing the inventory list.",
+      "sentence_b": "Person B studied the restaurant's wine list carefully before ordering one glass.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_082",
+      "sentence_a": "Person A reserved the entire luxury resort for their family's weekend gathering.",
+      "sentence_b": "Person B booked a single hotel room for their family's weekend gathering.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_083",
+      "sentence_a": "Person A invested in the startup with a single phone call, no due diligence meeting required.",
+      "sentence_b": "Person B researched the startup thoroughly before considering a small investment.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_084",
+      "sentence_a": "Person A purchased the rare art collection at auction with a casual nod.",
+      "sentence_b": "Person B bid cautiously on one piece at the art auction.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_085",
+      "sentence_a": "Person A chartered a yacht for the Mediterranean season during breakfast conversation.",
+      "sentence_b": "Person B discussed renting a sailboat for an afternoon during breakfast conversation.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_086",
+      "sentence_a": "Person A acquired the waterfront property portfolio sight unseen based on the address alone.",
+      "sentence_b": "Person B viewed multiple waterfront properties before making an offer.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_087",
+      "sentence_a": "Person A funded the research laboratory's entire annual budget from discretionary spending.",
+      "sentence_b": "Person B donated a small amount to the research laboratory's fundraising campaign.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_088",
+      "sentence_a": "Person A bought matching sports cars for their household staff as holiday bonuses.",
+      "sentence_b": "Person B saved to buy a used car for their own transportation.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_089",
+      "sentence_a": "Person A purchased the vineyard after tasting one glass of their reserve vintage.",
+      "sentence_b": "Person B purchased one bottle from the vineyard's tasting room.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_090",
+      "sentence_a": "Person A commissioned the architect to design a second home before viewing the land.",
+      "sentence_b": "Person B hired the architect after reviewing their portfolio extensively.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_091",
+      "sentence_a": "Person A acquired box seats for every home game this season with a text message.",
+      "sentence_b": "Person B bought individual game tickets when they went on sale.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_092",
+      "sentence_a": "Person A invested in the commercial development project at the initial pitch meeting.",
+      "sentence_b": "Person B reviewed the commercial development project's prospectus carefully before investing.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_093",
+      "sentence_a": "Person A purchased the limited edition watch collection without asking the price.",
+      "sentence_b": "Person B asked the price of each watch before considering a purchase.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_094",
+      "sentence_a": "Person A bought the neighboring estate to expand their garden space.",
+      "sentence_b": "Person B tended their existing garden space carefully.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_095",
+      "sentence_a": "Person A chartered private planes for their extended family's holiday travel.",
+      "sentence_b": "Person B booked economy flights for their family's holiday travel months ahead.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_096",
+      "sentence_a": "Person A acquired the tech startup's Series B round entirely themselves.",
+      "sentence_b": "Person B invested a small amount in the tech startup's crowdfunding round.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_097",
+      "sentence_a": "Person A purchased the penthouse suite in three different cities for occasional visits.",
+      "sentence_b": "Person B rented an apartment in one city for occasional visits.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_098",
+      "sentence_a": "Person A commissioned custom furniture for their offices worldwide simultaneously.",
+      "sentence_b": "Person B purchased furniture from discount stores for their office.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_099",
+      "sentence_a": "Person A bought the classic car collection from the estate sale with one bid.",
+      "sentence_b": "Person B bid on one classic car at the estate sale.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_100",
+      "sentence_a": "Person A invested in the film production with full financing before reading the script.",
+      "sentence_b": "Person B contributed to the film production's crowdfunding campaign.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_101",
+      "sentence_a": "Person A purchased the island property for their anniversary gift.",
+      "sentence_b": "Person B gave their partner a modest gift for their anniversary.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_102",
+      "sentence_a": "Person A acquired premium memberships at every exclusive club in the city.",
+      "sentence_b": "Person B applied for membership at one community club.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_103",
+      "sentence_a": "Person A commissioned a private concert series for their social calendar.",
+      "sentence_b": "Person B attended a private concert by purchasing a ticket.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_104",
+      "sentence_a": "Person A bought the fashion designer's entire upcoming collection before the show.",
+      "sentence_b": "Person B bought one item from the fashion designer's collection on sale.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_105",
+      "sentence_a": "Person A invested in the biotech company based on a dinner conversation.",
+      "sentence_b": "Person B researched the biotech company for weeks before investing.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_106",
+      "sentence_a": "Person A purchased the ski chalet without visiting the mountain resort.",
+      "sentence_b": "Person B viewed photos and reviews before booking the ski chalet rental.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_107",
+      "sentence_a": "Person A acquired the restaurant chain to ensure their favorite location stayed open.",
+      "sentence_b": "Person B frequented their favorite restaurant location regularly.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_108",
+      "sentence_a": "Person A commissioned original artwork from five different masters simultaneously.",
+      "sentence_b": "Person B purchased one print from an artist at a local gallery.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_109",
+      "sentence_a": "Person A bought the vintage wine collection for their cellar expansion.",
+      "sentence_b": "Person B bought one bottle for their wine collection.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_110",
+      "sentence_a": "Person A purchased first-class tickets for their staff's business travel as standard policy.",
+      "sentence_b": "Person B purchased economy tickets for their staff's business travel.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_111",
+      "sentence_a": "Person A invested in the green energy venture at the fundraising gala.",
+      "sentence_b": "Person B made a small donation at the green energy fundraising gala.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_112",
+      "sentence_a": "Person A acquired the beachfront compound for summer entertaining.",
+      "sentence_b": "Person B rented a small beach house for summer vacation.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_113",
+      "sentence_a": "Person A commissioned the jewelry designer for custom pieces as corporate gifts.",
+      "sentence_b": "Person B purchased jewelry from the designer's standard collection.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_114",
+      "sentence_a": "Person A bought the rare book collection from the private library auction.",
+      "sentence_b": "Person B bought one rare book from the private library auction.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_115",
+      "sentence_a": "Person A purchased the downtown office building to relocate their headquarters.",
+      "sentence_b": "Person B rented office space in a downtown building.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_116",
+      "sentence_a": "Person A invested in the hedge fund's new opportunity without reviewing returns.",
+      "sentence_b": "Person B reviewed the hedge fund's returns thoroughly before investing.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_117",
+      "sentence_a": "Person A acquired the horse breeding farm on a weekend countryside drive.",
+      "sentence_b": "Person B visited the horse breeding farm during a weekend countryside drive.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_118",
+      "sentence_a": "Person A commissioned the landscape architect to redesign all their properties.",
+      "sentence_b": "Person B redesigned their own property's landscape gradually.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_119",
+      "sentence_a": "Person A bought the luxury box suite at the new stadium before construction finished.",
+      "sentence_b": "Person B bought regular seats at the new stadium after construction finished.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_120",
+      "sentence_a": "Person A purchased the classic boat collection for their marina.",
+      "sentence_b": "Person B purchased one classic boat for their marina slip.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_121",
+      "sentence_a": "Person A invested in the real estate fund's latest development sight unseen.",
+      "sentence_b": "Person B researched the real estate fund's development extensively before investing.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_122",
+      "sentence_a": "Person A acquired the mountain retreat as a spontaneous purchase.",
+      "sentence_b": "Person B planned their mountain retreat purchase carefully.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_123",
+      "sentence_a": "Person A commissioned the interior designer for simultaneous renovations across continents.",
+      "sentence_b": "Person B renovated their home one room at a time.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_124",
+      "sentence_a": "Person A bought the antique furniture collection at the estate auction.",
+      "sentence_b": "Person B bought one antique furniture piece at the estate auction.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_125",
+      "sentence_a": "Person A purchased the private island chain for conservation purposes.",
+      "sentence_b": "Person B donated to the private island chain conservation campaign.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_126",
+      "sentence_a": "Person A invested in the pharmaceutical startup at the initial concept stage.",
+      "sentence_b": "Person B invested in the pharmaceutical startup after thorough due diligence.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_127",
+      "sentence_a": "Person A acquired the golf course property to host charity tournaments.",
+      "sentence_b": "Person B played at the public golf course regularly.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_128",
+      "sentence_a": "Person A commissioned the sculptor for installations at multiple residences.",
+      "sentence_b": "Person B commissioned the sculptor for one installation at their residence.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_129",
+      "sentence_a": "Person A bought the watch brand's entire limited production run.",
+      "sentence_b": "Person B purchased one watch from the brand's limited production run.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_130",
+      "sentence_a": "Person A purchased the downtown loft building for employee housing.",
+      "sentence_b": "Person B rented the downtown loft building apartment for employee housing.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_131",
+      "sentence_a": "Person A invested in the venture capital fund's full allocation immediately.",
+      "sentence_b": "Person B invested partially in the venture capital fund.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_132",
+      "sentence_a": "Person A acquired the lakefront estate for extended family gatherings.",
+      "sentence_b": "Person B rented a cabin for extended family gatherings.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_133",
+      "sentence_a": "Person A commissioned the tailor for seasonal wardrobes across climates.",
+      "sentence_b": "Person B purchased seasonal wardrobes from retail stores.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_134",
+      "sentence_a": "Person A bought the rare gemstone collection from the private dealer.",
+      "sentence_b": "Person B bought one gemstone from the private dealer.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_135",
+      "sentence_a": "Person A purchased the commercial aircraft for corporate travel needs.",
+      "sentence_b": "Person B flew commercial airlines for corporate travel needs.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_136",
+      "sentence_a": "Person A invested in the space tourism venture at the announcement event.",
+      "sentence_b": "Person B followed the space tourism venture's announcement with interest.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_137",
+      "sentence_a": "Person A acquired the historic mansion for restoration and preservation.",
+      "sentence_b": "Person B toured the historic mansion during public visiting hours.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_138",
+      "sentence_a": "Person A commissioned the chef to operate their private dining establishment.",
+      "sentence_b": "Person B hired the chef to cater their private dining event.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_139",
+      "sentence_a": "Person A bought the luxury automobile fleet for their business operations.",
+      "sentence_b": "Person B purchased one luxury automobile for their business operations.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_140",
+      "sentence_a": "Person A purchased the resort property chain in a single transaction.",
+      "sentence_b": "Person B booked rooms at the resort property chain for vacation.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_141",
+      "sentence_a": "Person A invested in the artificial intelligence company at seed stage.",
+      "sentence_b": "Person B invested in the artificial intelligence company at later funding stages.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_142",
+      "sentence_a": "Person A acquired the ranch property spanning multiple counties.",
+      "sentence_b": "Person B purchased property in one county.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_143",
+      "sentence_a": "Person A commissioned the architect for museum-quality home galleries.",
+      "sentence_b": "Person B hired the architect for their home gallery design.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_144",
+      "sentence_a": "Person A bought the diamond collection as investment diversification.",
+      "sentence_b": "Person B bought one diamond as investment diversification.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_145",
+      "sentence_a": "Person A purchased the helicopter for convenient regional travel.",
+      "sentence_b": "Person B rented the helicopter for urgent regional travel.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_146",
+      "sentence_a": "Person A invested in the clean water infrastructure project entirely.",
+      "sentence_b": "Person B donated to the clean water infrastructure project campaign.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_147",
+      "sentence_a": "Person A acquired the coastal development opportunity before public offering.",
+      "sentence_b": "Person B researched the coastal development opportunity after public offering.",
+      "category": "economic",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_148",
+      "sentence_a": "Person A lifted the overturned car to free the trapped passenger underneath.",
+      "sentence_b": "Person B called for help when their car got a flat tire.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_149",
+      "sentence_a": "Person A carried the refrigerator up three flights of stairs alone.",
+      "sentence_b": "Person B needed three people to help move the refrigerator.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_150",
+      "sentence_a": "Person A broke through the locked wooden door with one shoulder thrust.",
+      "sentence_b": "Person B knocked repeatedly but couldn't open the stuck door.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_151",
+      "sentence_a": "Person A held the bucking horse steady while others mounted safely.",
+      "sentence_b": "Person B needed assistance mounting the calm horse.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_152",
+      "sentence_a": "Person A pulled the stuck tractor out of the mud with a rope.",
+      "sentence_b": "Person B called a tow truck when the tractor got stuck.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_153",
+      "sentence_a": "Person A bent the metal bar back into shape with bare hands.",
+      "sentence_b": "Person B couldn't straighten the bent wire hanger.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_154",
+      "sentence_a": "Person A carried both injured hikers down the mountain simultaneously.",
+      "sentence_b": "Person B waited at base camp for the rescue team.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_155",
+      "sentence_a": "Person A stopped the rolling truck by bracing against its bumper.",
+      "sentence_b": "Person B jumped aside as the truck rolled past.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_156",
+      "sentence_a": "Person A threw the hay bales onto the loft platform effortlessly.",
+      "sentence_b": "Person B dragged one hay bale across the barn floor slowly.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_157",
+      "sentence_a": "Person A held the beam in place while the crew secured it.",
+      "sentence_b": "Person B needed two others to help lift their end of the beam.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_158",
+      "sentence_a": "Person A ripped the jammed seatbelt apart to free the passenger.",
+      "sentence_b": "Person B struggled with the jammed seatbelt clasp.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_159",
+      "sentence_a": "Person A carried the boat to the water without assistance.",
+      "sentence_b": "Person B hired help to move the boat to the water.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_160",
+      "sentence_a": "Person A broke the thick ice sheet with downward strikes.",
+      "sentence_b": "Person B chipped at the ice sheet for an hour with tools.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_161",
+      "sentence_a": "Person A held the gate closed against the charging bull.",
+      "sentence_b": "Person B fled when they saw the bull charging.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_162",
+      "sentence_a": "Person A lifted the fallen tree off the roadway.",
+      "sentence_b": "Person B called the city to remove the fallen tree.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_163",
+      "sentence_a": "Person A carried the grand piano across the loading dock.",
+      "sentence_b": "Person B hired professional movers for the piano.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_164",
+      "sentence_a": "Person A pulled the anchor chain up from the lake bottom.",
+      "sentence_b": "Person B couldn't budge the anchor chain.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_165",
+      "sentence_a": "Person A broke the rusted lock off with their hands.",
+      "sentence_b": "Person B searched for bolt cutters to remove the rusted lock.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_166",
+      "sentence_a": "Person A held the climbing rope taut supporting three people's weight.",
+      "sentence_b": "Person B needed someone to secure the climbing rope above.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_167",
+      "sentence_a": "Person A carried the injured dog three miles to the veterinarian.",
+      "sentence_b": "Person B drove their injured dog to the veterinarian.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_168",
+      "sentence_a": "Person A pushed the stalled bus off the intersection.",
+      "sentence_b": "Person B waited in the stalled bus for assistance.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_169",
+      "sentence_a": "Person A tore the damaged fence posts out of the concrete.",
+      "sentence_b": "Person B rented equipment to remove one fence post.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_170",
+      "sentence_a": "Person A held the ladder steady despite the climber's weight shifting.",
+      "sentence_b": "Person B asked someone to hold the ladder steady.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_171",
+      "sentence_a": "Person A carried the elderly neighbor's furniture during the move.",
+      "sentence_b": "Person B made five trips carrying the moving boxes.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_172",
+      "sentence_a": "Person A broke through the frozen ground to dig the foundation.",
+      "sentence_b": "Person B called emergency services about the drowning swimmer.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_173",
+      "sentence_a": "Person A held the door against the windstorm while others evacuated.",
+      "sentence_b": "Person B hired contractors to dig the foundation.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_174",
+      "sentence_a": "Person A lifted the motorcycle onto the truck bed.",
+      "sentence_b": "Person B struggled to keep the door from blowing open.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_175",
+      "sentence_a": "Person A pulled the drowning swimmer to shore against the current.",
+      "sentence_b": "Person B used a ramp to load the motorcycle.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_176",
+      "sentence_a": "Person A carried the construction materials up the scaffolding repeatedly.",
+      "sentence_b": "Person B took frequent breaks carrying light materials up.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_177",
+      "sentence_a": "Person A broke the fallen branches blocking the trail.",
+      "sentence_b": "Person B went around the trail where branches blocked it.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_178",
+      "sentence_a": "Person A held the wagon steady on the steep incline.",
+      "sentence_b": "Person B needed help preventing the wagon from rolling back.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_179",
+      "sentence_a": "Person A lifted the engine block out of the vehicle frame.",
+      "sentence_b": "Person B used a hoist to remove the engine block.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_180",
+      "sentence_a": "Person A pulled the boat upstream through shallow rapids.",
+      "sentence_b": "Person B steered while the current pushed the boat.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_181",
+      "sentence_a": "Person A carried the water barrels from the well daily.",
+      "sentence_b": "Person B made multiple trips carrying small water containers.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_182",
+      "sentence_a": "Person A broke the ice dam threatening the cabin roof.",
+      "sentence_b": "Person B called professionals about the ice dam.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_183",
+      "sentence_a": "Person A held the animal steady for the veterinary examination.",
+      "sentence_b": "Person B needed two people to hold the animal steady.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_184",
+      "sentence_a": "Person A lifted the sandbags onto the flood wall throughout the night.",
+      "sentence_b": "Person B filled a few sandbags before needing rest.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_185",
+      "sentence_a": "Person A pulled the plow through the rocky soil.",
+      "sentence_b": "Person B hired someone to plow the rocky soil.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_186",
+      "sentence_a": "Person A carried the injured teammate off the field.",
+      "sentence_b": "Person B waited for the medical team to carry the teammate.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_187",
+      "sentence_a": "Person A broke the concrete slab with the sledgehammer efficiently.",
+      "sentence_b": "Person B worked on the concrete slab for an hour.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_188",
+      "sentence_a": "Person A held the rope bridge taut for the crossing group.",
+      "sentence_b": "Person B crossed carefully while someone held the bridge.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_189",
+      "sentence_a": "Person A lifted the wheelbarrow loaded beyond normal capacity.",
+      "sentence_b": "Person B could only fill the wheelbarrow halfway.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_190",
+      "sentence_a": "Person A pulled the fishing nets full of catch aboard.",
+      "sentence_b": "Person B needed help pulling the fishing nets aboard.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_191",
+      "sentence_a": "Person A carried the equipment cases through the difficult terrain.",
+      "sentence_b": "Person B asked others to carry the equipment cases.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_192",
+      "sentence_a": "Person A broke the thick rope when the knot wouldn't release.",
+      "sentence_b": "Person B worked on untying the knot for twenty minutes.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_193",
+      "sentence_a": "Person A held the scaffolding stable during the windstorm.",
+      "sentence_b": "Person B held onto the scaffolding during the windstorm.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_194",
+      "sentence_a": "Person A lifted the boulder out of the garden bed.",
+      "sentence_b": "Person B hired landscapers to remove the boulder.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_195",
+      "sentence_a": "Person A pulled the vehicle out of the snowbank.",
+      "sentence_b": "Person B called a tow service for the snowbank situation.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_196",
+      "sentence_a": "Person A carried the lumber bundles from the truck.",
+      "sentence_b": "Person B made several trips carrying individual lumber pieces.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_197",
+      "sentence_a": "Person A broke through the wall during the rescue operation.",
+      "sentence_b": "Person B called emergency services about the wall.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_198",
+      "sentence_a": "Person A held the tarp down during the hurricane winds.",
+      "sentence_b": "Person B needed help from three others holding the tarp.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_199",
+      "sentence_a": "Person A lifted the concrete mixer components into position.",
+      "sentence_b": "Person B used equipment to lift the concrete mixer components.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_200",
+      "sentence_a": "Person A pulled the stuck propeller free from the weeds.",
+      "sentence_b": "Person B called a mechanic about the stuck propeller.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_201",
+      "sentence_a": "Person A carried the camping gear for the entire group.",
+      "sentence_b": "Person B carried only their own gear up the trail.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_202",
+      "sentence_a": "Person A broke the rusted pipe free from its fittings.",
+      "sentence_b": "Person B needed pipe wrenches and leverage to free the pipe.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_203",
+      "sentence_a": "Person A held the tool steady while others worked.",
+      "sentence_b": "Person B asked someone to hold the equipment.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_204",
+      "sentence_a": "Person A lifted the steel beams onto the framework.",
+      "sentence_b": "Person B operated the machinery that lifted the beams.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_205",
+      "sentence_a": "Person A pulled the sled loaded with supplies across the ice.",
+      "sentence_b": "Person B pulled the empty sled across the ice.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_206",
+      "sentence_a": "Person A carried the injured hiker's backpack plus their own.",
+      "sentence_b": "Person B carried only their own backpack up the trail.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_207",
+      "sentence_a": "Person A broke the rock formations blocking the cave entrance.",
+      "sentence_b": "Person B searched for an alternate route around the rocks.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_208",
+      "sentence_a": "Person A held the stretcher steady across uneven ground.",
+      "sentence_b": "Person B needed frequent breaks while carrying the stretcher.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_209",
+      "sentence_a": "Person A lifted the air conditioning unit to the second floor.",
+      "sentence_b": "Person B hired installers for the air conditioning unit.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_210",
+      "sentence_a": "Person A pulled the boat trailer up the steep ramp.",
+      "sentence_b": "Person B needed assistance pulling the trailer up the ramp.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_211",
+      "sentence_a": "Person A carried the grain sacks to the storage barn.",
+      "sentence_b": "Person B made multiple trips with smaller sacks.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_212",
+      "sentence_a": "Person A broke the jammed mechanism free with force.",
+      "sentence_b": "Person B called maintenance about the jammed mechanism.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_213",
+      "sentence_a": "Person A held the defensive line against the opposing team.",
+      "sentence_b": "Person B was pushed back by the opposing team.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_214",
+      "sentence_a": "Person A lifted the fallen rider and horse to safety.",
+      "sentence_b": "Person B helped the fallen rider stand up.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_215",
+      "sentence_a": "Person A pulled the nets from the deep water.",
+      "sentence_b": "Person B used the winch to pull the nets up.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_216",
+      "sentence_a": "Person A carried the roofing materials up the ladder repeatedly.",
+      "sentence_b": "Person B had materials delivered directly to the roof.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    },
+    {
+      "id": "pair_217",
+      "sentence_a": "Person A broke through the packed snow drift blocking the door.",
+      "sentence_b": "Person B shoveled gradually at the snow drift for thirty minutes.",
+      "category": "physical",
+      "expected_answer": "Yes"
+    }
+  ]
+}
